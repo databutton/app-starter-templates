@@ -16,13 +16,13 @@ def make_tarfile(output_filename, source_dir):
 def prepare():
     # All dirs in the templates folder, ignoring dotfiles
     dirs = [d for d in os.listdir(TEMPLATE_PATH) if not d.startswith('.')]
-    return [make_tarfile(dir, f"{TEMPLATE_PATH}/{dir}") for dir in dirs]
+    return [make_tarfile(dir, f"{TEMPLATE_PATH}/{dir}/") for dir in dirs]
 
 
 def upload(paths):
     print(paths)
     for p in paths:
-        blob = bucket.blob(p).upload_from_filename(p)
+        bucket.blob(p).upload_from_filename(p)
         print('uploaded', p)
 
 
