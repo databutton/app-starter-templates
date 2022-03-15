@@ -15,4 +15,7 @@ jobs:
         uses: 'google-github-actions/auth@v0'
         with:
           credentials_json: '${{ secrets.GCP_CREDENTIALS }}'
-      - run: python scripts/upload-templates.py
+      - name: Install dependencies for python scripts
+        run: pip install -r scripts/requirements.txt
+      - name: Upload artifacts to GCS
+        run: python scripts/upload-templates.py
