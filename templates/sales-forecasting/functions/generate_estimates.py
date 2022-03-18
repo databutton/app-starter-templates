@@ -15,7 +15,7 @@ def generate_estimates():
         dg =lib.estimate.predict_linear(dg)
         df = lib.estimate.assign_to_products(df, dg)
     
-        df.to_csv('./data/predicted/'+stat+'-estimated.csv')
+        df.to_csv('./data/predicted/'+stat+'-estimated.csv', index=0)
         
     return 1
 
