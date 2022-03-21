@@ -4,6 +4,7 @@ appnope @ file:///Users/runner/miniforge3/conda-bld/appnope_1635819658021/work
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1640817743617/work
 argon2-cffi-bindings @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi-bindings_1640885596961/work
 arrow==1.2.2
+asgiref==3.5.0
 astor==0.8.1
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1618968359944/work
 attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1640799537051/work
@@ -29,7 +30,7 @@ conda-package-handling @ file:///Users/runner/miniforge3/conda-bld/conda-package
 cookiecutter==1.7.3
 cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1633983374178/work
 cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
--e git+ssh://git@github.com/databutton/databutton-cli@41f63f7c6cae9aa619c44ba7eb2d231fef8532de#egg=databutton_cli
+-e git+ssh://git@github.com/databutton/databutton-cli@aef4c227bac760c0dce3ddc2dbcf8c68c70bc36b#egg=databutton_cli
 dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
 debugpy @ file:///Users/runner/miniforge3/conda-bld/debugpy_1636043380823/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
@@ -42,12 +43,15 @@ flit_core @ file:///home/conda/feedstock_root/build_artifacts/flit-core_16406972
 fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1643722481604/work
 gitdb==4.0.9
 GitPython==3.1.27
+h11==0.12.0
+httpcore==0.14.7
+httpx==0.22.0
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1609836280497/work
 importlib-metadata @ file:///Users/runner/miniforge3/conda-bld/importlib-metadata_1642513943168/work
 importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1635615662634/work
 ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1642098152863/work/dist/ipykernel-6.7.0-py3-none-any.whl
 ipympl==0.8.7
-ipython @ file:///Users/runner/miniforge3/conda-bld/ipython_1642613690561/work
+ipython==8.1.1
 ipython-genutils==0.2.0
 ipywidgets @ file:///home/conda/feedstock_root/build_artifacts/ipywidgets_1631590360471/work
 jedi @ file:///Users/runner/miniforge3/conda-bld/jedi_1637175418640/work
@@ -110,6 +114,7 @@ pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
 pyzmq @ file:///Users/runner/miniforge3/conda-bld/pyzmq_1635877593130/work
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1626393743643/work
+rfc3986==1.5.0
 ruamel-yaml-conda @ file:///Users/runner/miniforge3/conda-bld/ruamel_yaml_1624999868738/work
 scikit-learn==1.0.2
 scipy==1.8.0
@@ -140,8 +145,11 @@ tzdata==2021.5
 tzlocal==4.1
 unicodedata2 @ file:///Users/runner/miniforge3/conda-bld/unicodedata2_1640031049741/work
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1632350318291/work
+uvicorn==0.17.6
 validators==0.18.2
+watchgod==0.8
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
 webencodings==0.5.1
+websockets==10.2
 widgetsnbextension @ file:///Users/runner/miniforge3/conda-bld/widgetsnbextension_1637174654032/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1641731510635/work
