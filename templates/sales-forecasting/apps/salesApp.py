@@ -5,7 +5,7 @@ import plotly.express as px
 import databutton as db
 
 
-@db.streamlit('/app/salesApp')
+@db.streamlit('/apps/sales-forecasting')
 def app():
     stats = ['Quantity', 'Sales', 'Profit', 'Discount']
     views = ['Category', 'City', 'Product']
@@ -30,7 +30,7 @@ def app():
         stlabel = 'Estimated sales by Product'
         dG = df.groupby('Product Name').sum()
 
-    plot_what = st.selectbox(label='Plot trend for', options=dG.index)
+    plot_what = st.selectbox(label='Plot trends for', options=dG.index)
     g = dG.loc[plot_what][:10]
     g = g[::-1]
     fig = px.line(x=g.index, y=g, title=plot_what)
