@@ -19,7 +19,7 @@ cffi==1.15.0
 charset-normalizer==2.0.12
 click==7.1.2
 colorama==0.4.4
-databutton-cli==0.0.1
+databutton2==0.0.32
 debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
@@ -87,6 +87,7 @@ python-dateutil==2.8.2
 python-dotenv==0.19.2
 pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
+PyYAML==6.0
 pyzmq==22.3.0
 requests==2.27.1
 rfc3986==1.5.0
@@ -109,6 +110,7 @@ starlette==0.17.1
 streamlit==1.7.0
 streamlit-aggrid==0.2.3.post2
 tenacity==8.0.1
+termcolor==1.1.0
 terminado==0.13.3
 testpath==0.6.0
 threadpoolctl==3.1.0
@@ -130,4 +132,5 @@ websockets==10.2
 wheel==0.37.1
 widgetsnbextension==3.6.0
 wsproto==1.1.0
+yaspin==2.1.0
 zipp==3.7.0

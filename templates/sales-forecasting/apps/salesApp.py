@@ -1,8 +1,16 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import plotly.express as px
 import databutton as db
+
+@db.dataframe('/data/raw-churn.csv')
+def raw_data():
+    return pd.read_csv('./data/raw/churn.csv')
+
+
+@db.dataframe('/data/predicted-churn.csv')
+def predicted_data():
+    return pd.read_csv('./data/predicted/Profit-estimated.csv')
 
 
 @db.streamlit('/apps/sales-forecasting')
@@ -30,7 +38,8 @@ def app():
         stlabel = 'Estimated sales by Product'
         dG = df.groupby('Product Name').sum()
 
-    plot_what = st.selectbox(label='Plot trends for', options=dG.index)
+    plot_what = st.selectbox(
+        label='Plot even more trends for', options=dG.index)
     g = dG.loc[plot_what][:10]
     g = g[::-1]
     fig = px.line(x=g.index, y=g, title=plot_what)
