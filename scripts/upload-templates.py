@@ -22,7 +22,9 @@ def prepare():
 def upload(paths):
     print(paths)
     for p in paths:
-        bucket.blob(p).upload_from_filename(p)
+        blob = storage.Blob(p, bucket)
+        blob.cache_control = 'no-cache'
+        blob.upload_from_filename(p)
         print('uploaded', p)
 
 
