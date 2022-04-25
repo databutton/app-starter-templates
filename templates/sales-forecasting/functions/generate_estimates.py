@@ -12,7 +12,7 @@ def generate_estimates():
         print('Generating predictions for ' + stat)
         df = pd.read_csv('./data/generated/'+stat+'.csv')
         dg = df.groupby('Sub-Category').sum()
-        dg =lib.estimate.predict_linear(dg)
+        dg = lib.estimate.predict_linear(dg)
         df = lib.estimate.assign_to_products(df, dg)
     
         df.to_csv('./data/predicted/'+stat+'-estimated.csv', index=0)
