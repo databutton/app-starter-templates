@@ -1,0 +1,666 @@
+,title,selftext,full_link,num_comments,score,retrieved_on
+0,Using Machine Learning in Sales and Marketing,[removed],https://www.reddit.com/r/datascience/comments/ber5au/using_machine_learning_in_sales_and_marketing/,2,1,1555623804
+1,Visualizing stock trading agents using Matplotlib and Gym,,https://www.reddit.com/r/datascience/comments/beryj5/visualizing_stock_trading_agents_using_matplotlib/,2,1,1555628148
+2,Where does data science and meteorology cross over?,"I've had this question for a while and cant seem to find any answers.
+
+&amp;#x200B;
+
+From what I understand about meteorology and weather prediction, it really just sounds like they were doing data science before it was cool (analyzing meteorological data and making predictions).
+
+&amp;#x200B;
+
+How is the field utilizing data science today? Have we gotten better at predicting the weather now that the technology is catching up with the demand?",https://www.reddit.com/r/datascience/comments/bes5xh/where_does_data_science_and_meteorology_cross_over/,5,1,1555629262
+3,Python alternative to O'Reilly's Practical Statistics for Data Scientists,,https://www.reddit.com/r/datascience/comments/betmsv/python_alternative_to_oreillys_practical/,0,5,1555638059
+4,Master’s program: UChicago vs. NYU,"If anyone has attended or know anyone that has attended these two programs, could you share your experiences? I’m conflicted between choosing between UChicago’s MS in Analytics program and NYU’s MS in Data Science program. Cost is not a factor for me. Based on job opportunities, which program is preferable? I’m open to working in either Chicago or NYC. Thank you in advance",https://www.reddit.com/r/datascience/comments/beup2w/masters_program_uchicago_vs_nyu/,0,1,1555645075
+5,Does this make sense to anyone?,"""When looking at the percent change between review periods for each employee, is it important to use the monthly average of 6-month productivity instead of the sum of 6-month productivity? Why or why not?"" 
+
+1. review periods are 6 months each
+2. data being averaged are integers that are supposed to represent productivity
+3. each month has 1 number
+
+
+What is the difference between ""monthly average of 6-month productivity"" and the ""sum of 6-month productivity""?
+
+Sooo confused by the wording here",https://www.reddit.com/r/datascience/comments/beusoh/does_this_make_sense_to_anyone/,6,2,1555645780
+6,Phone Interview,"Hello everyone. I have a phone interview tomorrow for a Data Coordinator position at a local tech firm. Has anyone had a phone interview before? Are there any technical questions that i should be prepped for or are phone interviews relatively basic?
+
+Thanks for any help!",https://www.reddit.com/r/datascience/comments/beutp8/phone_interview/,3,1,1555645984
+7,Industrial Designer looking into data science..,"Hello everyone! Im an industrial designer, who has been really struggling to find a stable job due to my industry being flooded with designers. I have scratched and clawed for over a year, and finally now found a position but I hardly deal with designing, and its more of product quality control and dealing with manufacturing issues... 
+
+&amp;#x200B;
+
+As much as I love what I went to school for, and what i'm good at, I think staying in this field will be more trouble than its worth. Unfortunately, I do not see a future for myself here anymore, and I feel like I wasted a lot of time trying to make it work..
+
+&amp;#x200B;
+
+I'm also a veteran, and recently have been given a chance to take some classes; That's where I ran into Data Science. My local community college offers a 4-5 class course they say is enough to start me in the DS field, or at least to get me to a point where I can find an internship and job. I find coding very interesting, and starting to research into AI (also very interesting to me).
+
+&amp;#x200B;
+
+Does anyone here have a similar background who is now in data science? How was your experience with this transition? Would you recommend it? By the way, the courses are listed here:  [http://catalog.collegeofsanmateo.edu/current/programs/data-science-and-big-data-cs.php](http://catalog.collegeofsanmateo.edu/current/programs/data-science-and-big-data-cs.php) 
+
+&amp;#x200B;
+
+Any opinion or input would be much appreciated!",https://www.reddit.com/r/datascience/comments/bevluj/industrial_designer_looking_into_data_science/,1,1,1555651912
+8,Data Science Training in Chennai,,https://www.reddit.com/r/datascience/comments/bewdwx/data_science_training_in_chennai/,2,1,1555658542
+9,Any architects here ?,"Would be nice to share ideas on the architecture /infrastructure setup of DS applications. 
+I'm following design patterns used by Google, Uber and other big tech companies who occasionally make their information available for public.",https://www.reddit.com/r/datascience/comments/bex0ze/any_architects_here/,10,1,1555664637
+10,SQL for Interview,[removed],https://www.reddit.com/r/datascience/comments/bexlot/sql_for_interview/,2,1,1555669648
+11,I'm (30 M) thinking about switching from psychology into data science. Do you guys think it's doable?,"Hello friends. 
+
+Some info about my background: My first degree in in Psychology. Then I decided to do a generic MSc in Psychology again and it's when I came in touch with some basic research methodology. I learnt spss and a bit of R from the scratch and gained some experience on data analysis ( used regression, lots of Factor Analysis, some multilevel modeling on some quantitative projects).
+
+
+ I was keen quantitative analysis on research but didn't engage a lot after my masters cause I got a full time job in a hospital. Two years after, I have arrived to the realization that psychology is not for me and I cannot imagine myself on this field anymore. Having this in mind and considering the fact that I liked statistical analysis, I decided to apply for a MSc in data science and analytics of Cardiff University.
+
+
+ Surprisingly, I was accepted even though the requirement was first degree on a numerical subject. To be honest I am very excited by this upcoming challenge but at the same time I'm also worried that I won't be able to pull it off. I have no idea about programming, coding and whatsoever and the particular course is full of python, machine learning etc.
+
+
+Do you think that shifting from a theoretical field like psychology towards data science and programming is doable on my 30s? Is prior knowledge of Algebra, calculus necessary?",https://www.reddit.com/r/datascience/comments/bexm67/im_30_m_thinking_about_switching_from_psychology/,3,6,1555669759
+12,any guidelines for where to start from in data sciences.Any help is appreciated.,[removed],https://www.reddit.com/r/datascience/comments/bexor0/any_guidelines_for_where_to_start_from_in_data/,1,1,1555670367
+13,Need help with a small doubt.,[removed],https://www.reddit.com/r/datascience/comments/bexrc6/need_help_with_a_small_doubt/,2,1,1555670968
+14,Best Data Science Training Institute In Pune,,https://www.reddit.com/r/datascience/comments/bey1jr/best_data_science_training_institute_in_pune/,1,1,1555673289
+15,Looking for help with my assignment!,"I have to find a correlation between target feature and all other features in the data set .after using corr method in pandas,i got a maximum correlation of .43.The TA says that the it is not a strong correlation and to ""COMBINE FEATURES"" to get a strong correlation.I combines the top strong correlation features and got .39(combined by concatenating columns).what does it mean to combine features and how to do that in pandas?",https://www.reddit.com/r/datascience/comments/beypp7/looking_for_help_with_my_assignment/,1,1,1555678091
+16,Need help with a small doubt.,I am a new learner and I am stuck with this function in R called score(). So I want to know which library I need to load in order to access this function. I am sorry I have to ask here as I failed to find it on google.,https://www.reddit.com/r/datascience/comments/beyq0k/need_help_with_a_small_doubt/,5,1,1555678149
+17,Looking for help with my assignment!,"I have to find a correlation between target feature and all other features in the data set .after using corr method in pandas,i got a maximum correlation of .43.The TA says that the it is not a strong correlation and to ""COMBINE FEATURES"" to get a strong correlation.I combines the top strong correlation features and got .39(combined by concatenating columns).what does it mean to combine features and how to do that in pandas?",https://www.reddit.com/r/datascience/comments/bez0m1/looking_for_help_with_my_assignment/,11,1,1555680024
+18,"Why arguing about who is a ""Real Data Scientist"" is a misguided exercise","One of the most common arguments these days revolves around what constitutes a ""real"" Data Scientist, and by proxy, who is deserving of the Data Scientist title. A popular opinion is that Data Scientists need to do machine learning or they're not real data scientists.
+
+I think this completely misses the point of job titles: job titles are not meant to define a role. Job titles are meant to be corporate abbreviations for job descriptions. It is job descriptions that are matched against outside salary references, and it is job descriptions that are graded for pay purposes. Job descriptions are used for hiring purposes and ultimately job descriptions describe the job that you do.
+
+There are some professions where titles have very real meanings (Lawyers who pass the bar exam, Professional Engineers who pass the P.E. exam, Accountants who are certified CPAs, etc.), but the majority of titles don't mean anything, and Data Scientist is certainly in that camp.
+
+Other examples:
+
+- At a lot of large corporation, you see Sr. Managers that don't manage anyone (i.e., have no direct reports).
+
+- Every person in national/executive sales is a VP, even though they are not responsible for a P&amp;L and often don't even have direct reports. Oh, and they make less money than a Director in every other branch of the company.
+
+- Every bank title is incredibly inflated (again, TONS of VPs)
+
+- Every quant/trading title is incredibly deflated - they'll seemingly call someone an analyst their whole lives even if they're making 400k and have 15 years experience.
+
+The only constraints on job titles are often internal, and a consequence of how they fit relative to existing internal job descriptions. Specifically, if a specific job title term (e.g., Engineer, Analyst, Consultant) has traditionally been associated with a certain set of skills and responsibilities, a new role that has completely new requirements should in general avoid using the same title.
+
+So why are so many companies giving Data Science titles to people who don't do Machine Learning given that the original data scientists had to? Here is what the life-cycle of creating a role looks like *at a company that doesn't have existing data science capabilities*:
+
+1) Hiring manager decides she needs a new person with a profile that doesn't exist in the form of an existing job description. She needs this person to do mostly analysis, but she also needs them to be able to write code in Python to automate some processes, build the occasional model (likely not a production model), and access back-end databases directly and often. She may also, in time, need this person to dedicate more time to building more advanced statistical models, maybe even ML models, but as of right now that is highly uncertain because the company has never used ML in the past.
+
+2) After writing this job description, the key hitting points look something like this: 
+
+* Must have 2+ years experience with R/Python
+* Must have 2+ years experience with SQL
+* Must have experience building statistical models.
+* A whole bunch of business and soft skills stuff
+
+3) HR receives this job description and they now need to grade it. Since they have Analyst/Sr Analyst roles already, they compare the job description against those roles. They quickly find that none of those job descriptions require R/Python, SQL or building models. But they do match a lot of the other requirements, so it becomes clear that they will need a different type of role that is both different (includes Python/SQL/Modeling) and higher (more requirements) than the existing Analyst/Sr. Analyst roles. They may have even higher levels of Analyst (Lead, Principal), but none of them will require the use of Python/SQL/Modeling, so the fact of the matter is that they are going to need to get away from the Analyst title or otherwise create confusion and internal inconsistencies.
+
+4) In order to do their benchmarking, HR pulls salaries and comp from an external data source that helps them match job description requirements to those posted by other companies. They work their way through putting the job description requirements into the system, and the system tells HR what jobs with similar JDs pay, including a range. It also tells this person the titles of the people who have similar JDs - which will likely include jobs that are legitimate Data Science jobs as they require R, Python, SQL, and statistical modeling experience. But it also will include some Analyst roles that do require programming skills (maybe some quant roles), and other random role titles that no one would think of looking into. All in all, the job grade that comes back is higher than an Analyst role (because of the added skills), but not quite as high as that of the first-gen Data Scientists, i.e., Ph.D. + 5 years experience in Silicon Valley. 
+
+5) Now they need a job title. They know they can't name the role ""Analyst"" or ""Sr. Analyst"" because the skill set (and job grading) is different. Therefore they want to avoid having one ""Analyst"" making considerably more money than the rest of the Analysts, and also would like to make it clear that current Analysts may not have the skillset needed for this new role. They may, but it cannot be assumed by default that they do. They currently don't have any data scientists, so there's no toes to step on there, so it becomes a natural solution to name this new role ""Data Scientist"". Why that and not a completely new title to avoid clashing with the existing Data Scientist roles that are more senior in the marketplace?
+
+* **You want a title that can be easily found by people with the right skillset**: because the candidate you are looking for has some characteristics of an old school data scientist and some of an analyst, you want to hit with a title that will catch the high-end of the pool you're looking for. ""Analyst"" may leave some of those people out. 
+
+* **You want the role to be easy to find**: you can title the job ""Programming Friendly Analyst"", but it would just make it harder to get it to show up on searches. Meanwhile, because people are searching for the Data Scientist role often, it gives you better visibility. 
+
+And there you have it, you now have a Data Scientist opening that you can post. Odds are you will get a wide range of candidates applying, including some who will be greatly overqualified (but will inquire because of the Data Science title being so variable), but you will end up hiring someone who is, ideally, at the top end of your requirements.
+
+More importantly, as more and more companies do this, the general convergence is not based on original data science roles, but rather the new data science roles that are going to be more common because they will fill a need in a much larger market (i.e., more companies need people to tame their data and run basic modeling, fewer companies are ready for cutting edge ML).
+
+You will certainly have organizations where step 5 is different, i.e., where the ""Analyst"" roles already have programming requirements (quants, consulting are all great examples), and in that case it makes sense that Data Scientist will be defined as ""can do ML"", because the only reason to create a new role will be to differentiate people who can do analysis, modeling, and programming from those who can do all of those things AND build machine learning models.
+
+And then you have the even more extreme examples, FANGs, where you are seeing the creation of roles that are even more technical than Data Scientist (like Applied Scientist and Research Scientist and ML Engineer), which - again - were likely required to create internal differentiation between people who can execute machine learning models vs. people who can develop brand new machine learning concepts/scale machine learning to solve massively complex applications/etc.
+
+On to my last point: to those who are on the cutting edge of machine learning and AI knowledge who feel ""icky"" getting lumped in with us simpletons who are just running fancy regression models to make our companies more money - just know that the reason your salaries are continuing to increase is because the number of companies hiring Data people like myself to solve simpleton problems is blowing up the market, and creating a scarcity everywhere in the field that is driving salaries up. So, while I understand that you like the prestige of having a title that reflects just how much more about machine learning you know that the rest of us, please appreciate that the popularity of the general field of Decision Science has greatly benefited you directly.
+
+**TL;DR: No one company/group of people get to dictate what is/isn't a ""Data Scientist"". It is a natural response of the market to allow those companies looking for employees to find the right job seekers while satisfying internal corporate constraints. To continue to argue about who is/isn't a data scientist is pointless, because the title itself actually doesn't mean anything. Most importantly, a rising tide lifts all boats, and we have all benefited from the demand for all types of data scientists.**",https://www.reddit.com/r/datascience/comments/bezjso/why_arguing_about_who_is_a_real_data_scientist_is/,81,304,1555683113
+19,Machine Learning basics | MI &amp; Datascience,,https://www.reddit.com/r/datascience/comments/bezkj0/machine_learning_basics_mi_datascience/,1,1,1555683228
+20,Why does Github flag earlier versions of notebook as a security threat? What to do?,,https://www.reddit.com/r/datascience/comments/bezp1t/why_does_github_flag_earlier_versions_of_notebook/,1,1,1555683906
+21,Bivariate maps made exclusively in R,,https://www.reddit.com/r/datascience/comments/bf0bfj/bivariate_maps_made_exclusively_in_r/,1,1,1555687203
+22,Transition to Data Scientist from MSC in biostatistics,[removed],https://www.reddit.com/r/datascience/comments/bf0drr/transition_to_data_scientist_from_msc_in/,2,1,1555687525
+23,"A data science bootcamp won’t replace a cs or math degree. However, it is an excellent supplement to your credentials should you have a cs/math degree.","I did a data science bootcamp and a cs degrees some time ago. Most of my cohort still is unemployed. Why? Many didn’t do quantitative degrees prior to the bootcamp. The ones who did land jobs happened to have a technical background prior to the bootcamp. 
+
+So people ask why even do a data science bootcamp in the first place? 
+
+(1) bootcamps will train you to create a portfolio of data science projects that you can show your future employers. You can create the basic Ames housing competition but you will also do nlp for Reddit posts, time series for the West Nile virus Kaggle data set, and a capstone of your choice. Could university do this? Sure but many don’t. 
+
+(2) you will greatly improve certain aspects of your data science background considerably. This mostly will be your python/sql abilities. Yes school teaches you python and sql but if all you have is a semester or two, chances are you probably will forget. A data science bootcamp will make you code in python for several hours and home some of these skills. Bootcamps are 8 hours a day and five days a week. This helps greatly for the technical interviews at most companies. 
+
+(3) boot camps will make you realize that your fellow student is a great teacher. A lot of data science isn’t just clean, apply logistic regression, get 99% accuracy and you’re done. It’s also understanding how to approach different data science problems. When you see 15 presentations on how to accurately predict housing prices in Iowa, you learn a lot about how to approach this problem in multiple angles. This will make you a better thinker and speaker. 
+
+(4) connections- if you do a bootcamp in San Francisco, I’m not gonna lie...it’s not cheap...but a lot of the bootcamps career coaches are connected with employers and can hook you up. That’s appealing especially in a competitive market like San Francisco. 
+
+Downsides
+Many data science bootcamps struggle to find teachers who are experts in the field. Why? Industry scoops them up with much higher salaries. You may end up learning from an unemployed former bootcamp grad. That might mean you won’t get a full understanding of all the concepts especially more advanced concepts such as markov chains. 
+
+Many employers won’t look at your resume if you don’t have a cs or math or stats degree. There’s already so many that do so why consider yours. Also how does a 12 week program replace what four years of college can teach? Some claim it can but it’s met with a lot of skepticism.",https://www.reddit.com/r/datascience/comments/bf0lib/a_data_science_bootcamp_wont_replace_a_cs_or_math/,15,10,1555688649
+24,Job transition to Data Analyst,[removed],https://www.reddit.com/r/datascience/comments/bf13jy/job_transition_to_data_analyst/,1,1,1555691212
+25,"Value of a the title ""Data Scientist""","I've recently interviewed and received an offer from the supply chain group  of a major e-commerce platform. One obstacle is that I would no longer have the title ""Data Scientist"" but instead would be called ""Principal Analyst."" Seems like the company is considering their data scientists as ""ML engineers"" and their principal analysts as ""Decision Scientists."" Both utilize advanced statistical and ML knowledge in their work. It's just the data scientists focus more on working with developers on implementation and the principal analysts focus more on discussing strategy with the business. Talking to the team there seems to be a lot of functional overlap.   
+
+
+Personally - I don't care about the difference in titles. But I was wondering if any of y'all think it would have an impact on marketing myself for similar roles in the future. I currently have the role ""Senior Data Scientist"" and work in a similar capacity at my current job.",https://www.reddit.com/r/datascience/comments/bf1eym/value_of_a_the_title_data_scientist/,7,6,1555692825
+26,3 Awesome Visualization Techniques for every dataset,,https://www.reddit.com/r/datascience/comments/bf1iin/3_awesome_visualization_techniques_for_every/,3,2,1555693321
+27,"Tool to extract text data from disparate pdf, jpg, and Word based invoices?",[removed],https://www.reddit.com/r/datascience/comments/bf2qwu/tool_to_extract_text_data_from_disparate_pdf_jpg/,2,1,1555699609
+28,Help!,"In one correlation against target feature,i have got .44 against one feature,.33 against another feature.When i tried to combine using concat or join or combine i have got even less correlation.Is there any way to determine which features should be combine?This is the first part of my assignment and am completely stuck.",https://www.reddit.com/r/datascience/comments/bf2zap/help/,1,0,1555700817
+29,Resetting Governments and Getting a New Deal on Democracy and Market-Driven Dystopian Bliss | Robin Hanson,[removed],https://www.reddit.com/r/datascience/comments/bf32zy/resetting_governments_and_getting_a_new_deal_on/,0,1,1555701364
+30,I'm starting to think the hardest part of my job is getting credentials for and connecting to the database,"Stingy DBA's, amirite?",https://www.reddit.com/r/datascience/comments/bf370t/im_starting_to_think_the_hardest_part_of_my_job/,28,132,1555701941
+31,Attribution Models: A Business and Statistical Case,,https://www.reddit.com/r/datascience/comments/bf406b/attribution_models_a_business_and_statistical_case/,0,1,1555706226
+32,Best options for automatically sharing query results as excel files in company,"It's 2019 and most end users in my organization still ask me to share the output of queries as Excel files over e-mail or on Sharepoint. I'm OK with this but can't find of a way to implement this in such a way that this is: 
+
+\- Free  
+\- Low hassle  
+\- Automated  
+\- Reliable  
+
+
+Right now I use a combination of Python scripts to connect with databases, retrieve data from those databases with some SQL scripts I execute through Python scripts and some batch files to execute these Python scripts / SQL commands at certain times. This looks a bit like this:   
+
+
+    import pyodbc 
+    import pandas as pd
+    
+    conn = pyodbc.connect('Driver={SQL Server};'
+                          'Server=server_name;'
+                          'Database=db_name;'
+                          'Trusted_Connection=yes;')
+    
+    query = ('SELECT * FROM db_name.Table')
+    
+    df = pd.read_sql_query(query, conn)
+    df.to_excel(""output.xlsx"")
+    
+    &lt;some script to e-mail users with this output&gt;
+
+This is free and automated but a lot of hassle to maintain and frankly I'm one of the few guys who understands the codebase. I'd rather use some tooling if I can so new functionality is added and thoroughly tested instead of custom made by me. 
+
+  
+Solutions I'm considering: 
+
+\- Power BI paginated report builder (we use PBI for data viz / dashboard building). This has the advantage that it's point and click but the disadvantage that you're locked into PBI and don't need the extra functionality when all I want to share is a list of data. 
+
+\-  SQLCMD + job scheduler in SQL Server Agent. No experience with this option yet.   
+
+
+Any help is welcome!",https://www.reddit.com/r/datascience/comments/bf4v3n/best_options_for_automatically_sharing_query/,6,2,1555710984
+33,"#ODSCEast Attendees: Get a Free, Limited-edition t-shirt","No conference is complete without some great swag. If you’re attending #ODSCEast 2019, stop by the MissingLink.ai booth (#311) to pick up our limited-edition t-shirts. We’re crazy about these t-shirts…and we want you to get one, too!  
+
+&amp;#x200B;
+
+Here's how to get yours: 
+
+* Send an email to (tareq at [MissingLink.ai](https://MissingLink.ai)) from your business email. 
+* Size and color (Red, Blue,  Green) of the t-shirt 
+* Stop by the [MissingLink.ai](https://MissingLink.ai) booth #311 to pick it up. 
+
+&amp;#x200B;
+
+**Offers end on April 27th.**",https://www.reddit.com/r/datascience/comments/bf5px2/odsceast_attendees_get_a_free_limitededition/,0,1,1555715852
+34,Data science/BI in Financial institutions/Asset Management?,"Hello,  
+
+
+I have a question. I am finishing my BSc in business, which is followed by a specialization MSc of chosen area. I was choosing between Finance and BI/Data Science/analytics. It was a very hard decision, because i enjoyed finance a bit more, but was told the other options is super high in demand. On top of that I thought as long as I am interested in Finance i will also learn finance more and more anyway, whereas if i choose Finance, i won't learn much of data science on my own.
+
+I was planning to do CFA for myself, as AM is probably the reason why i loved finance, I am obsessed about figuring out optimal portfolio based on what specific untradeable assets i own and so on.
+
+Therefore I came to a conclusion - is BI/Data science combinable with CFA? It is a weird combo/rare combo/maybe good combo, but also risky combo, because AM+Data science is such a specific area.
+
+EDIT: I know that term-dropping of DS is not really appropiate in my case, but you understand what i mean - my Masters includes stuff like : SQL/R/Python/Applied Data science/BI/Machine learning/Bayesian networks, i have taken extra courses of data science in uni and so on.",https://www.reddit.com/r/datascience/comments/bf5yge/data_sciencebi_in_financial_institutionsasset/,5,1,1555717336
+35,Need To Find SQL Sample Databases For Practise,"So I want to learn how to use SQL, and to do this I am also looking for sample databases that I can use to test my SQL knowledge. It would be a big help if these are large too and applicaple for someone wanting to become a data analyst, ie something a data analyst would be expected to work with.
+
+&amp;#x200B;
+
+If anyone is aware of a useful website with an archive of such samples please do let me know, I will very much appreciate it.",https://www.reddit.com/r/datascience/comments/bf62nl/need_to_find_sql_sample_databases_for_practise/,6,7,1555718065
+36,Apache Beam Help?,"Hey everyone, I was wondering if someone could help me out with a small apache beam project. ( I do not work as a Data engineer or Data Scientist ) just trying to understand some technology I basically want to read a file that contains 99 other files I want to calculate the sha256 checksum of those files and output them to a JSON file. This seems relatively simple to say (I can do this in normal Java but im sort of confused when I introduce apache beam into the equation)
+
+Any help would be appreciated!",https://www.reddit.com/r/datascience/comments/bf7rwh/apache_beam_help/,7,3,1555729436
+37,"Do data scientists ever use ""classic"" applied maths like PDE, numerical analysis, and dynamics?",Or is the math used in data science mostly of computer science and statistics?,https://www.reddit.com/r/datascience/comments/bf8g1v/do_data_scientists_ever_use_classic_applied_maths/,44,89,1555734460
+38,Appropriate python package to manipulate excel data,"Just prefacing this by saying I'm fairly new to this.
+
+I'm looking for an appropriate python package to manipulate excel data on multiple workbooks (i.e. exporting certain parts of one one workbook to another, basic tasks like that).
+
+I use excel 2016, so as far as I know openpyxl is out of scope.
+
+Beyond that, I'm wondering what an appropriate package would be (or if a package is necessary at all).
+
+Appreciate the help.",https://www.reddit.com/r/datascience/comments/bf9yxp/appropriate_python_package_to_manipulate_excel/,10,7,1555747559
+39,StratifiedKFold in an imbalanced dataset for a keras NN,"I'm running a neural network in an imbalanced dataset, I was trying to use StratifiedKFold from sklearn to see if I can get better results but I get a ValueError: Supported target types are: ('binary', 'multiclass'). Got 'multilabel-indicator' instead. My target is encoded and categorical. The model without the StratifiedKFold works fine.
+Any ideas? Thanks
+
+code:
+    from keras.models import Sequential
+    from keras.layers import Dense
+    from keras.utils import to_categorical
+    from sklearn.model_selection import StratifiedKFold
+    from sklearn.preprocessing import LabelEncoder
+    import numpy
+    import pandas as pd
+
+    seed = 7
+    numpy.random.seed(seed)
+
+    #Read the dataset
+    dataset = pd.read_csv(""./dataset/yeast.data"", header = None, sep = ""\s+"")
+    dataset.columns = [""Sequence Name"", 
+                        ""mcg"", 
+                        ""gvh"", 
+                        ""alm"", 
+                        ""mit"", 
+                        ""erl"", 
+                        ""pox"", 
+                        ""vac"", 
+                        ""nuc"", 
+                        ""Class""
+                        ]
+
+    #The column ""Sequence Name"" is just a database label that I'm not going to use to make predictions
+    dataset = dataset.drop([""Sequence Name""], axis = 1)
+
+
+    # split into input (X) and output (Y) variables
+    X = dataset.values[:, :8]
+    #X = to_categorical(X)
+
+    le = LabelEncoder()
+
+    Y = dataset.values[:, -1]
+    Y = le.fit_transform(Y)
+    Y = to_categorical(Y)
+
+
+
+    kfold = StratifiedKFold(n_splits=10, shuffle=True, random_state=seed)
+    cvscores = []
+    for train1, test1 in kfold.split(X, Y):
+        # Create the model
+        n_cols = 8 #number of predictors
+        model7 = Sequential()
+
+        model7.add(Dense(100, activation = ""relu"", input_shape = (n_cols,)))
+        model7.add(Dense(100, activation = ""relu""))
+        model7.add(Dense(100, activation = ""relu""))
+        model7.add(Dense(10, activation = ""softmax"")) # softmax because it's a classification prediction
+
+        # Compile and fit the model
+        model7.compile(optimizer = ""adam"", loss = ""categorical_crossentropy"", metrics = [""accuracy""])
+        model7.fit(X[train1], Y[train1], epochs = 50, verbose = 0)
+        # evaluate the model
+        scores = model7.evaluate(X[test1], Y[test1], verbose=0, epochs=150, batch_size=10)
+        print(""%s: %.2f%%"" % (model7.metrics_names[1], scores[1]*100))
+        cvscores.append(scores[1] * 100)
+    print(""%.2f%% (+/- %.2f%%)"" % (numpy.mean(cvscores), numpy.std(cvscores)))",https://www.reddit.com/r/datascience/comments/bfaqy7/stratifiedkfold_in_an_imbalanced_dataset_for_a/,0,4,1555755206
+40,Which MLR task to use ?,"Very new to ds and ml in general.
+
+I have a set of co-ordinates points in my training set (x\_begin, y\_begin) and (x\_end, y\_end) . 
+
+in the test set I have only (xx\_begin,y\_begin) and I need to predict the( x\_end, y\_end ). 
+
+I have done predictions for single variable target , but not sure how to proceed with multiple targets. 
+
+Any suggestion ?",https://www.reddit.com/r/datascience/comments/bfbhbl/which_mlr_task_to_use/,1,0,1555761718
+41,How do I implement an algorithm from a research paper?,"Hi all, this is the paper: https://www.cs.utexas.edu/~shmat/shmat_oak09.pdf
+
+
+I'm a graduate student in DS, I have to give a presentation on this paper. I would like to implement similar in Python (or at least explain the pseudocode). But I have no idea how to go about it. Actually I dont really understand the equations as well.
+
+I have been reading this paper for 2 weeks :(
+
+I would appreciate your help on this, or maybe you guys can point me in the right direction. Thanks you very much !!!!",https://www.reddit.com/r/datascience/comments/bfc0gz/how_do_i_implement_an_algorithm_from_a_research/,1,1,1555765746
+42,"Can anybody confirm on this claim ? Also, the person who posted it seems to be a bit rude, got pissed off at someone for making a joke(not even directed at the person)",,https://www.reddit.com/r/datascience/comments/bfdcdj/can_anybody_confirm_on_this_claim_also_the_person/,5,0,1555773966
+43,How do I implement an algorithm from a research paper?,"Hi all, this is the paper: https://www.cs.utexas.edu/~shmat/shmat_oak09.pdf
+
+I'm a graduate student in DS, I have to give a presentation on this paper. I would like to implement similar in Python (or at least explain the pseudocode). But I have no idea how to go about it. Actually I dont really understand the equations as well.
+
+I have been reading this paper for 2 weeks :(
+
+I would appreciate your help on this, or maybe you guys can point me in the right direction. Thanks you very much !!!!",https://www.reddit.com/r/datascience/comments/bfdfal/how_do_i_implement_an_algorithm_from_a_research/,9,1,1555774433
+44,Should i work as a Data QA Engineer?,"So, i applied for a 'big' company in my region for Data Anakyst. They reply back that they just have opening for Data QA .It is a healthcare analytics company and the pay is quite similar to an analyst.I am not too sure if QA is what i would want to do as I don't know the scope it has.Any suggestions?",https://www.reddit.com/r/datascience/comments/bfdw15/should_i_work_as_a_data_qa_engineer/,14,4,1555776984
+45,"Polarization, Powerful Billionaires and the Eroding Effects of Inequality | Rahaf Harfoush","[Polarization, Powerful Billionaires and the Eroding Effects of Inequality | Rahaf Harfoush](https://disruptors.fm/96-polarization-powerful-billionaires-and-the-eroding-effects-of-inequality-rahaf-harfoush/)
+
+&amp;#x200B;
+
+Rahaf Harfoush (@rahafharfoush) is a digital anthropologist, bestselling author, and speaker researching the impacts of emerging technologies on our society and is focused on deep (and often hidden) behavioral shifts that are taking place within organizations and individuals in this digital era. She also teaches Innovation and Disruptive Business Models at SciencePo’s Masters of Finance and Economics Program in Paris and is the author of Hustle &amp; Float, The Decoded Company and Yes We Did! (an inside look at how Obama used social media to win in 2008. Rahaf’s also the Executive Director of the Red Thread Institute of Digital Culture, a thinktank, and special projects agency focused on the intersection of technology and culture.
+
+&amp;#x200B;
+
+Today we discuss:
+
+\- The polarizing problem of social media and sharing
+
+\- Why inequality is such a big deal
+
+\- What Obama and Trump did effectively in their campaigns
+
+\- The reason ADD is killing creativity
+
+\- Why social media’s perfect for information warfare
+
+\- How billionaires are breaking the world
+
+\- Why protesting and media mobs may be the new norm
+
+\- How to think about worker rights
+
+\- What’s wrong with the gig economy and where it heads
+
+\- How privacy is eroding faster than we realize
+
+\- Why AI and automation could ruin society",https://www.reddit.com/r/datascience/comments/bffkxv/polarization_powerful_billionaires_and_the/,0,2,1555785892
+46,Anyone working on EY Data challenge ?,"Anyone here working on EY Data challenge? 
+
+Since the page doesn't have any discussion board, i thought i may ask here ...",https://www.reddit.com/r/datascience/comments/bfhxiq/anyone_working_on_ey_data_challenge/,2,6,1555799361
+47,Entry level business analyst confused about what decision to make,"Hey everyone. It's been 2 months since I started out as a Business analyst. It's a 6 month internship and I'm pretty much guaranteed a full time position after that.
+
+Basically, I'm a bridge between the management and technological sides, and do a lot of software requirements gathering and creating system design (UI/UX and database design). I have also written some python scripts to automate a range of reports. As and when we start to gather more data, I can start getting my hands dirty and do some real work with data. There are plans to implement some ML models, some for internal use and some for production. I'm learning ML at the moment, and once I'm confident with the coding part, I can get started.
+
+At the same time, I have an offer for MSc. Data Science at University College Cork, Ireland and it starts at September.
+
+My question is, should I work for a while and then go for a master's or should I do the master's now?",https://www.reddit.com/r/datascience/comments/bfka0o/entry_level_business_analyst_confused_about_what/,9,2,1555814474
+48,"Considering master's in statistics, non-STEM undergrad background",[removed],https://www.reddit.com/r/datascience/comments/bfkoj9/considering_masters_in_statistics_nonstem/,2,1,1555817323
+49,"Before using CV-selected Regression model for Inference, shouldn't model performance be first evaluated on unused test set?",,https://www.reddit.com/r/datascience/comments/bfkwkw/before_using_cvselected_regression_model_for/,0,0,1555818966
+50,Business analytics or Data analytics?,[removed],https://www.reddit.com/r/datascience/comments/bfmc53/business_analytics_or_data_analytics/,2,1,1555830956
+51,Effective work with Python and SQL at the same time,"Hi, I'm looking for a Python GUI or just a way of working which will make it easy to develop SQL as well. Right now I develop my SQL in DataGrip and just paste it into Spyder, where I don't have syntax highlighting or autocompletion for SQL. This quickly becomes a mess, especially when I have to debug the SQL code. How do you cope with that?
+
+I think the obvious improvement would be saving the SQL code in separate files instead of pasting it in the .py files. Is that the standard practice or is something else generally done in this situation?",https://www.reddit.com/r/datascience/comments/bfmq4f/effective_work_with_python_and_sql_at_the_same/,17,2,1555834872
+52,Pandas Help!,"I was wondering if there's a chance that I can combine a set of (highly correlated) variables to replace another variable.
+
+For example, variable A is correlated with variables B, C, D, E. Could I somehow create a replacement for variable A by combining variables B,C, D, and E?",https://www.reddit.com/r/datascience/comments/bfmyrh/pandas_help/,3,1,1555837293
+53,How to start learning #Statistics to start a career in data science? Any resources that can be suggested?,[removed],https://www.reddit.com/r/datascience/comments/bfn4zm/how_to_start_learning_statistics_to_start_a/,2,1,1555838994
+54,Can hetero-scedasticity ever be a good thing?,"I am working on a multiple linear regression model for estimating customer incomes, as part of an affordability assessment for lending, and I expect that I will have some hetero-scedasticity in some form or another. Specifically I expect that the residuals will be much smaller for lower income customers than for higher income customers.
+
+&amp;#x200B;
+
+I know that it would usually be best practice to apply some sort of non-linear transformation to my dependent variable to correct for this, but I'm wondering if this is necessarily the right thing to do because of the context in which this model will be used.
+
+&amp;#x200B;
+
+Higher income customers are likely to pass the affordability assessment regardless, and an estimate of their salary that is out by 20% is much less likely to affect the decision of whether to lend to them. In contrast a customer with low income is more likely to be on the margin in terms of whether they should receive lending, and an estimate that is out by 20% will have a big influence on the decision, which will have some potentially serious consequences for the lender and the customer.
+
+&amp;#x200B;
+
+So what are my options in this scenario?
+
+&amp;#x200B;
+
+My first thought is leave it as it is, don't try to correct for hetero-scedasticity, with the justification that it is desirable in this context. Added to this is the fact that interpretability is very important to stakeholders, and if I were to say, predict log(income) instead of income, some would be uncomfortable with a model that isn't linear- they would want to be able to follow the calculation easily, with interpretable coefficients etc.. A downside I can imagine is that the confidence intervals would be a bit meaningless, but these wouldn't really be taken into account operationally anyway.
+
+&amp;#x200B;
+
+Another thought I had would be to use a non-linear transformation like log to make it more homo-scedastic, and weight the lower income data points to make sure the model performs better on the marginal customers. I don't know if this is common practice though, so a I'm a bit wary of this approach.
+
+&amp;#x200B;
+
+I'd be really interested to hear some thoughts on this.
+
+&amp;#x200B;
+
+Thanks",https://www.reddit.com/r/datascience/comments/bfniup/can_heteroscedasticity_ever_be_a_good_thing/,1,1,1555842854
+55,Data Science and Conservation/Ecology?,"What are some interesting applications that you know of where Data Science methods converge with areas like Ecology, Climate Science, Conservation, or Environmental Science? I'm thinking of pursuing one of these fields as a Masters and build a serious career out of it.",https://www.reddit.com/r/datascience/comments/bfnor3/data_science_and_conservationecology/,17,5,1555844468
+56,Which laptop should I buy?,"I'm a Computer Engineer and will be pursuing my masters in computer science (data science) from Uppsala University, Sweden. I wanted to know which laptop will be best suited for data science? Thanks",https://www.reddit.com/r/datascience/comments/bfnpr1/which_laptop_should_i_buy/,21,0,1555844708
+57,What is a good predictive analytics course?,I want to learn this next to apply this to cancer research. Thanks!,https://www.reddit.com/r/datascience/comments/bfozdl/what_is_a_good_predictive_analytics_course/,6,1,1555854560
+58,Multiple linear regression: How It Works? (Python Implementation),,https://www.reddit.com/r/datascience/comments/bfq11y/multiple_linear_regression_how_it_works_python/,0,9,1555860922
+59,I got my dream data science job. What's next?,"After years of focused effort, I got my dream job. I'm working as a data scientist for a great company, and it pays really well. However, a year after getting the job, I feel like my growth is starting to stagnate. Things are starting to get too easy. In other jobs I've had, there's always a clear vision of what the next step is, some promotion to aspire to. But I don't know what that is for me now. The only thing I can think of is going up the management chain, but I don't see much opportunity for that in my company. My manager isn't leaving anytime soon. 
+
+Anyone have any thoughts? Are there outside of the box ideas I'm not thinking of? Do I need an attitude change?",https://www.reddit.com/r/datascience/comments/bfrgoa/i_got_my_dream_data_science_job_whats_next/,15,3,1555868822
+60,Just secured a job as an MI Analyst little experience,[removed],https://www.reddit.com/r/datascience/comments/bfrtr6/just_secured_a_job_as_an_mi_analyst_little/,2,1,1555870781
+61,"What’s the most important position in a company in the Data Science space? (E.g. Chief Data Officer, Chief Data Scientist, Head of Data?",Curious about it. I think it will depend on the company but there should be a type of hierarchy.,https://www.reddit.com/r/datascience/comments/bfruvs/whats_the_most_important_position_in_a_company_in/,4,1,1555870953
+62,Am I shooting myself in the foot by not using SQL?,[removed],https://www.reddit.com/r/datascience/comments/bfscfn/am_i_shooting_myself_in_the_foot_by_not_using_sql/,2,1,1555873605
+63,What are the top 3 things you wish you knew before entering the field of data science?,,https://www.reddit.com/r/datascience/comments/bfsntf/what_are_the_top_3_things_you_wish_you_knew/,53,122,1555875358
+64,Review Children's Book for Data Science? :),"Hi - My friend and I are in the process of writing a satire / slightly educational book for children for Data Science.  **We have an early draft, would anyone be interested in reviewing, giving us feedback?** We can send you a pdf / goggle slide before we publish it. 
+
+&amp;#x200B;
+
+ABCs of Data Science features pages such as - C - is Correlation ... NOT CAUSATION. R is for R. N is for 95% confidence interval.
+
+&amp;#x200B;
+
+It's a funny satire book that anyone involved in data science can read to their kid, or friends kid.
+
+&amp;#x200B;
+
+We've written a couple before - ABCs of Product Management - [https://www.theabcsofproductmanagement.com/](https://www.theabcsofproductmanagement.com/) . It's available on Amazon.
+
+&amp;#x200B;
+
+We both work in tech, and my friend is super into data science :) . Thanks!!",https://www.reddit.com/r/datascience/comments/bfsywh/review_childrens_book_for_data_science/,7,2,1555877066
+65,Question on Plotting ?,"I got the following code on the basic iris dataset in R 
+
+&amp;#x200B;
+
+https://i.redd.it/6yt4wkdoeot21.png
+
+It says that option 1 is totally false and should not be used. 
+
+Now I wonder why not? I did not need not need to spend an additional minute ordering the data in to the dataset used for option 2 being (factor with levels sepal and petal, length and width columns). 
+
+&amp;#x200B;
+
+What is so funamentally wrong about the first appraoch that I should seriously consider steering away from that method. 
+
+The argument that option 2 is easier to read does not fully hit, as I think they are both equally as readable no?",https://www.reddit.com/r/datascience/comments/bft65f/question_on_plotting/,5,2,1555878171
+66,Agile Data Science 2.0 [O'Reilly Book],"I've been reading through this book and it's really interesting to see all these different tools in use. What this book lacks in statistics &amp; modeling techniques, it makes up in showing off the full [end-to-end stack](https://twitter.com/agalea91/status/1120070068359106562).
+
+&amp;#x200B;
+
+\- I liked the Flask front end, but the jinja templates are a lot of work to build.   
+\- I would prefer to use dask w/ pandas like API rather than the author's choice pyspark.
+
+\- The author loves NoSQL, he is writes processed data to json line format (.jsonl) even when the data isn't nested.
+
+\- Using mongodb for ""publishing data"" (loading into the Flask app) is an interesting approach. 
+
+&amp;#x200B;
+
+What did you think of the book and/or approach?",https://www.reddit.com/r/datascience/comments/bftuyw/agile_data_science_20_oreilly_book/,0,3,1555882026
+67,"For Naive Bayes, is it necessary to limit the number of values for attribute if data set is small?","I got a bunch of images of solder joints on a PCB that are manually labeled, the goal is to recognize a good joint vs bad joint. There are shadows that are different color than the actual solder. The metal contacts are also a different color.
+
+But even the same part can have a different RGB value from one image to the next due to variances in ambient light, etc.
+
+I would think for Naive Bayes, I should segment the colors first right? Because the 'same' color to the human eye can appear as many different RGB colors and Naive Bayes would treat them as different which would lead do poor performance given the limited number of training images. I plan to only focus on 4 colors - the shadow, the solder, the reflective sheen of solder, and the metal joint, and segment it in a way that each ""area"" would have a single RBG value.
+
+Furthermore, the corresponding areas across different images should have the same RGB value. So essentially, I'm limiting the number of values for each pixel attributes, which should prevent overfitting.
+
+Is this necessary to do or am I overthinking it?
+
+Thanks",https://www.reddit.com/r/datascience/comments/bfusl8/for_naive_bayes_is_it_necessary_to_limit_the/,4,2,1555887393
+68,Searching for inspiration to analyze,"It's an analysis request I've been putting off at work. It definitely has value in exploring, but I'm having a hard time finding my initiative in this one. I want to find a way to make this into a visualization. 
+
+To put it simply, customers are allowed to make changes to their product after submitting it. They can make many changes and the business wants to understand what fields the customers are changing and withhin these fields what properties they're modifying.
+
+I'm faced with doing boring counts across many groups and slices. It's fine. There's no way around presenting it this way.
+
+My question is, what methods or approaches are there where I can put these changes into a nice visual? I think if I can show the flow, size, and combinations of all the changes it would help us synthesize the data. I want to avoid Sankey charts since this really isn't a funnel flow.",https://www.reddit.com/r/datascience/comments/bfv3ct/searching_for_inspiration_to_analyze/,3,1,1555889211
+69,Machine Learning in Finance Meetup (London),,https://www.reddit.com/r/datascience/comments/bfv8c7/machine_learning_in_finance_meetup_london/,0,0,1555890078
+70,facebook data science question,[removed],https://www.reddit.com/r/datascience/comments/bfvboa/facebook_data_science_question/,1,1,1555890651
+71,Advice required for stumped Reporting / Data Analyst,"  
+
+Hi everyone, I would like to get some insights regarding my current job situation.
+
+ 
+
+**Premise:**
+
+* Been at current job for 5 years (promoted twice)
+* Started out as a Reporting Analyst 
+* Scope expanded through the years, involvement with projects, management reporting 
+
+ 
+
+**Considerations:**
+
+* Predominantly working with Microsoft Excel, organization has recently introduced newer analytical / visualization software
+* Very stressful hours, averaging 12 to 14 hour days, mostly due to too many overlapping deadlines and outdated processes
+* High turn over rate and difficulty in locating replacements
+* My direct manager is leaving the team, leaving myself, a new hire (less than 3 months), 2 contract staff
+
+ 
+
+The majority of my day to day work involves Excel reporting and some data analysis; over the years we have attempted to optimize processes through VBA macros, building and maintenance of localized database for data retrieval. The reporting work is relatively mundane, we have pre-saved SQL queries and excel templates and users just have to perform some manipulations to the raw data.
+
+  
+
+We have been in survival mode for the last 2 years, struggling to get up to speed with the day to day reporting requirements. (2 team members left). The work is tedious due to the sheer amount of reports required. We have reached out to management to review the decommissioning of reports that are no longer required, but the business teams have consistently raised their objections.
+
+While this was going on, I  have completed classes to improve my foundation in data analytics (statistics, predictive modeling, text and data mining foundations, hands on usage of data analytics software).  As it stands, I am continuing to self learn Python and Tableau. 
+
+  
+
+On the other front, the organization is advancing slowly, introducing more analytical and visualization tools for usage. The main challenge I face now is that I barely have the time to fulfill our daily reporting requirements. The only way I get to devote any attention to implementing process enhancements / using these new tools is to come back to work on the weekends. The current process enhancements on my roadmap:
+
+ 
+
+* Using Tableau to retire our older Excel dashboards
+* Using Python scripts to automate existing Excel reports
+* Conceptualization and building of our division's data warehouse to be synced with the rest of the organization
+
+  
+
+I recognize that I need to improve my skillsets in order to advance further into data analytics, but my current workload is making it really challenging. With the departure of my direct manager,  I find myself having to stand in for his position and am loaded with additional managerial responsibilities. Judging from the past track record, it would take more than a year to find his replacement.  
+ 
+
+It feels like a catch 22 situation here. I am not technically skilled enough to cross over into data analytics and starting from a entry level or junior position would most likely result in a steep pay-cut. But the longer I stay in the organization, the more burnt out I get and the lesser time I have to focus on my self development. The last thing I'd want is to be stuck in a position where I am overpaid yet only equipped with a limited repertoire of competencies.
+
+Would love to hear some insights on how I should approach this dilemma. Thank you and sorry for the wall of text!
+
+ 
+
+**TL:DR Reporting analyst using Excel for 5 years. I want to learn more for self development to cross over into data analytics but am currently facing huge workload / manpower issues at job. Should I stay or go?**",https://www.reddit.com/r/datascience/comments/bfvd10/advice_required_for_stumped_reporting_data_analyst/,1,1,1555890889
+72,Next steps? Promotion coming my way..,"Tldr at bottom
+
+Found this sub a while back and have loved piggy backing on a lot of the advice. But was hoping to get some discussion on where I am going in my career/in my company. Let me make this very clear before I get roasted- I am not a data scientist. I am a financial analyst and all senior management hears is ""analyst"". 
+
+It started when I landed a job underwriting commercial debt, with it came the bitch work sincr I was the new guy... was given a lot of shitty reports to make up each week/month/quarter/year. Well I  hated those reports, so I self studied and figured out how to automate them using vba. Eventually automating most my job.. Well to better benefit the company I started walking around my department automating everything with shitty vba scripts. 
+
+All of senior management caught a hold of this and thought I should do it for the whole company.  I realized I couldn't use vba for everything unless the whole thing was gonna implode. So I got with our IT department who had an abandoned data warehouse project. I figured out enough sql to get all of our core systems pointed at it with some help from IT setting up FTPs. And set up the reports to automate out of this warehouse. 
+
+Well after the reports were set up, I started getting into financial modeling, and realized I could just practice on my company. Senior Management's buzzword of the month was ""OKR"" at this point, so I thought up of some undeniable OKRs and set up a little dashboard for our loan officers so they could track those and their incentives themselves. My management then demands I make this dashboards for everyone. 
+
+Well they want to promote me and give me the title ""Senior Data Analyst"", comes with a pretty cool raise too and I am pretty much my own boss with no direct over sight. But idk how I feel about the position because I don't know what I could do next. They will also pay for me to get a masters in data science from a decent state school. 
+
+tldr; not actually a data analyst, just automated all our reports and built some dashboards that track okrs &amp; incentives. Have a ton of career momentum right now because of it - what are some new things I can do next? Assume I work for a company from the 1980s, and am willing to self teach anything.",https://www.reddit.com/r/datascience/comments/bfvylg/next_steps_promotion_coming_my_way/,2,1,1555894564
+73,Alternatives to DataCamp,There has been quite a few posts in the recent time asking people to boycott DataCamp. Can someone provide alternative? I’ve used DataCamp previously and found it useful. Any good alternative would be appreciated so that I don’t have to go back to DataCamp,https://www.reddit.com/r/datascience/comments/bfw8gr/alternatives_to_datacamp/,12,17,1555896251
+74,Spicing up Feature Film Credits with Classification — Part II,,https://www.reddit.com/r/datascience/comments/bfwitv/spicing_up_feature_film_credits_with/,2,1,1555898116
+75,Technical Interview for a Junior Data Analyst,"For all the people that have been or still are junior data analysts, what were the technical interview questions you received? Thanks!",https://www.reddit.com/r/datascience/comments/bfwysk/technical_interview_for_a_junior_data_analyst/,3,2,1555900886
+76,Where do all the “old” data scientists go?,[removed],https://www.reddit.com/r/datascience/comments/bfxmfr/where_do_all_the_old_data_scientists_go/,1,1,1555905106
+77,How to start a project about inventory management using machine learning?,[removed],https://www.reddit.com/r/datascience/comments/bfxoek/how_to_start_a_project_about_inventory_management/,1,1,1555905475
+78,Masters in Data Sicence/Data analytics for me?,"I know this questions gets probably asked a lot. I'm sorry.  
+
+
+But I'm trying to know what to do in my situation.  
+
+
+**Here is my situation: (sorry in advance if I put too much useless information about me)**  
+I'm finishing a business degree at the moment in IT. (probably called MIS in usa I think?)  
+I did some CS classes but dropped out.
+
+**More about me:** 
+
+I feel like in business I don't really belong since I'm not excellent at communication. I'm quiet a shy person too. Also, I find people in my business degree, kind of dumb (most of them). When I was in CS,  I felt like people were actually smart (well most of them). When I think about it, maybe I dropped CS because I was too lazy but keep telling myself I dropped out because I didn't like it. I don't know.   
+I'm also introvert and like logic, problem solving, video games , etc.  
+
+
+**My question is:**  
+Since I don't have a STEM degree should I go for a master degree in DataScience.   
+Cost is around $15-20 000 for the 2year degree. The degree includes: Algorithm for optimization and Big Data analysis, Decision analysis, forecasting methods, Machine learning, machine learning 2 , dvanced statistical learning, statistical modeling etc.  
+I know some people recommend to do CS instead, but since I don't have a degree in CS. Masters in CS would be near impossible. That is why I'm considering data science/data analytics degree",https://www.reddit.com/r/datascience/comments/bfxs9c/masters_in_data_sicencedata_analytics_for_me/,8,4,1555906203
+79,is Naive Bayes not a good model if priors can change?,"Let's say for SPAM detection, one starts out with lots of spam but after change in behaviors, one starts getting less spam. But you trained the model on data with lots of spam, would it give poor result later?
+
+What are ways around this?
+Thanks",https://www.reddit.com/r/datascience/comments/bfxw9v/is_naive_bayes_not_a_good_model_if_priors_can/,3,2,1555906977
+80,I am a graduate student that wants to do research in a different university’s lab.,"Entering in a MSCS program this fall and I want to get into research. Unfortunately the school I will be attending does not have much in the way of research opportunities. But there is a school in the same city that has high research activity in very interesting areas and I’d like to work there. 
+
+Also, I come from a nonCS (biochemistry) undergrad but I have done lots of research as an undergrad and I am published.
+
+It appears there are 3 things to consider:
+1. No CS background
+2. Student at different university (non-international so study abroad doesn’t apply)
+3. A masters student (not a PhD)
+
+Ideally I’d spend the entire 2 year program working in research but I may have a hard time convincing a PI to take me in being unproven.
+Alternatively, I could wait 1 or 2 semesters and then ask for an opportunity. Although I don’t know if they would be as receptive for just a year long stint.
+
+What would be the best way to go about this?",https://www.reddit.com/r/datascience/comments/bfxyes/i_am_a_graduate_student_that_wants_to_do_research/,1,1,1555907418
+81,good article artificial intelligence," 
+
+Hi, Do you know the good article that introduces artificial intelligence to you in a simple and understandable language for everyone.",https://www.reddit.com/r/datascience/comments/bfy7u3/good_article_artificial_intelligence/,0,0,1555909489
+82,Which is the best data analytics training institute in Pune?,,https://www.reddit.com/r/datascience/comments/bfz43y/which_is_the_best_data_analytics_training/,2,1,1555916984
+83,Online text editor for python 3?,My computer is not able to install anaconda pls recommend some online text editor.,https://www.reddit.com/r/datascience/comments/bg0aeu/online_text_editor_for_python_3/,4,1,1555927293
+84,What are your opinions on machine learning platforms like AWS SageMaker and Azure Machine Learning?,,https://www.reddit.com/r/datascience/comments/bg2n7n/what_are_your_opinions_on_machine_learning/,28,95,1555942767
+85,"If a person has a PhD in data science, will it be easier for him/her to get a job than a person who has a masters in data science?",[removed],https://www.reddit.com/r/datascience/comments/bg2p05/if_a_person_has_a_phd_in_data_science_will_it_be/,2,1,1555943043
+86,Environmental Companies &amp; Data Science?,"Are there are any large companies focused on environmental sustainability, pollution clean up, wildlife protection, etc. that have a strong data science department? I'm trying to switch into this field, but not sure if there's a big enough data science footprint to do so.
+
+&amp;#x200B;
+
+Also I live in the DC area, so really focused on companies here.",https://www.reddit.com/r/datascience/comments/bg2zxl/environmental_companies_data_science/,11,11,1555944723
+87,Is it possible to insert a large number of addresses and return the distance between them over multiple trips?,[removed],https://www.reddit.com/r/datascience/comments/bg346x/is_it_possible_to_insert_a_large_number_of/,1,1,1555945350
+88,How long did it take you to get your second job in data science?,"I’ve seen people post about the second ds job search but usually those post reference questions about the necessity of git hub, etc. I’ve been a data scientist at a Fortune 500 company for two years but would like to relocate at the end of the summer (Dallas or Austin area). I’m conflicted on when I should start applying for jobs. People always says the market for data scientist is really hot so I don’t want to apply too early and have to move too soon. At the same time, I don’t want to be overly confident and end up without a job. I also know that wanting to relocate might make it more difficult as well.
+
+How long did it take you to find your second job? What did that process look like?",https://www.reddit.com/r/datascience/comments/bg36p6/how_long_did_it_take_you_to_get_your_second_job/,1,1,1555945721
+89,Going wrong in scoring social media posts of a user based on the post history and influence,"So I'm a student who got an outsourced data science gig doing self-directed learning on this data-set, just imagine a data-set similar to Instagram. Where we have USER table with the userID, account creation date, number of followers, number of following, description, handle, gender, and other important profile info and table POSTS with the posts on social media with the no of likes, no of comments, reach, date, date posted, trending etc. Then I also have csv full of comments which I'm not using for the analysis now.
+
+Now I want to create a model that will score these posts based on the popularity and performance. So my first and my very naive approach was to split the POSTS into the train and test randomly. Then on the train, I would group by the userId and create aggregate features ['sum', 'max', 'min', 'mean', 'var'] on the different numeric columns. Then I would add merge this data to the USER with its own numeric columns, I would call this table HISTORY, which would give us the past performance of the post. Then the really stupid thing I did (I think?) was to add the HISTORY data back to the train POSTS (yes, the same one which I used to aggregate features of) and test POSTS.
+
+The scoring metric I used to score the post was sigmoid(log(like+1) + log(reach + 1) + log(no of comments + 1) + log(trending + 1)) which yielded a score between 0 and 1. But there was an excess amount of posts with score 0. So while training I had to undersample the zero scores. And I used the Post Time + History to predict this particular score.
+
+So I'm doing self-directed learning this data-set and it's kind of an outsourced work to me and I feel like I'm stuck making progress in the wrong direction. I think I went wrong on the following places
+
+• Creating a proper metric for scoring the posts, a better way to score posts?
+• Using the train data to generate aggregate history than using the same train data to append this history onto. 
+• Splitting the train and test data randomly. Because in this case, if a post on the train is a user's first post, I would add the HISTORY to this post but that doesn't make any sense in reality.
+• The data is spread over 2 years, is some inconsistency going to creep up?
+• Most of the scoring lies in this [distribution](https://imgur.com/JaXQBpJ), I would like it to be spread out. 
+• To judge the performance of the model, I was using Precision. The number of high-quality posts, which was actually scored high. Is this a proper metric to use? Can we actually use the confusion matrix here by setting a threshold on the score to differentiate between posts that scored high and low?
+• How to prepare train and test data? Should I use 70% Posts to aggregate features, then use 25% for training and 5% for testing?
+ 
+I feel like I've approached this problem wrong from the first step itself and I did a lot of thinking to myself but I'm incapable of figuring out what's wrong. Any insights, tips and resources would literally save my life.
+
+Thank you.",https://www.reddit.com/r/datascience/comments/bg5nb1/going_wrong_in_scoring_social_media_posts_of_a/,12,2,1555958273
+90,Linear Regression Analysis - Tutorial,,https://www.reddit.com/r/datascience/comments/bg6c8s/linear_regression_analysis_tutorial/,2,1,1555961760
+91,"So it seems my company won't be hiring a Data Engineer any time soon, what are some good sources for learning data engineering skills/best practices so I can do things the right way myself in the meantime?","I am currently a Data Scientist but there are many problems that I would mostly consider ""data engineering"" problems that make my team a lot less productive. I know lots of sources to learn ""data science"" concepts but not many to learn about ""data engineering"" concepts that I feel I need to know now like:
+
+- ETL pipelines and best practices
+
+- How to work with databases (especially Redshift) beyond just querying them 
+
+- Working with AWS services (outside of EC2/Sagemaker)
+
+- Spark/Hadoop (I don't think this is as applicable to my current situation, but would be nice to have more knowledge on) 
+
+It seems like most people that are data engineering specialists learned though experience, but I would like to cut out some of the trial and error pain. Anybody have any particular courses or books to share?",https://www.reddit.com/r/datascience/comments/bg7fro/so_it_seems_my_company_wont_be_hiring_a_data/,7,7,1555967358
+92,[Project]Deploy trained ML model to AWS lambda with Serverless framework,,https://www.reddit.com/r/datascience/comments/bg8qjz/projectdeploy_trained_ml_model_to_aws_lambda_with/,0,4,1555974207
+93,"Can anyone tell me if my major/minor combination is suitable for a career in data science, machine learning roles",[removed],https://www.reddit.com/r/datascience/comments/bg8tnz/can_anyone_tell_me_if_my_majorminor_combination/,1,1,1555974653
+94,Is 40 too old to enter data science or get a job in data science given math undergrad and an MBA and currently working in risk analytics?,[removed],https://www.reddit.com/r/datascience/comments/bg9as4/is_40_too_old_to_enter_data_science_or_get_a_job/,2,1,1555977270
+95,Hi Data Scientists! What academic background are you coming from?,"I just got accepted into a Master’ program for applied data science with only a BA in psychology. I’ve definitely learnt a lot of data processing skills in my three years of working since, but I definitely feel I’m coming out from left field in my decision. 
+
+Where did you start from and do you think anyone could become a data scientist?",https://www.reddit.com/r/datascience/comments/bgat9l/hi_data_scientists_what_academic_background_are/,205,90,1555986178
+96,Engine maintenance requirements vs Usage - data sources?,"Hi all,
+
+All engines, whether truck, car or lawn mower, become reliable with time - **but what does the shape of that curve look like?**  I  am looking for some generic motor vehcile data and hope you know where to point me. The data I seek might be referred to as:
+
+* Engine Mileage vs Maintenance Effort, or 
+* Car Mileage vs Reliability
+
+I am specifically NOT after 'Car Mileage vs *Cost*' because, as Engers points our in their 2012 paper ""Automobile Maintenance Costs, Used Cars, and Private Information"", ""that cost declines after Year 10 may result from signicant reductions in usage of the vehicle and reduced insurance costs""
+
+**I am specificallly looking for information** on typical levels of required maintenance to cars/engines (as interventions not $) vs distance travelled. 
+
+This question is not specific to make or model, so generic curve shape will do. 
+
+Any pointers for good automotive data?",https://www.reddit.com/r/datascience/comments/bgb7p9/engine_maintenance_requirements_vs_usage_data/,4,2,1555988563
+97,To hiring manager: online degree?,"Hi! I have a couple questions for you guys ! Thanks in advance :)
+
+1. Do you guys prefer online degree or on-campus degree (or does not even care) ? 
+2. Which master degree do you guys recommend? ex. Stanford, Indiana University, University of Alberta...  
+
+Thank you !!",https://www.reddit.com/r/datascience/comments/bgbbse/to_hiring_manager_online_degree/,1,1,1555989235
+98,To hiring manager: Online degree?,"Hi! I have a couple questions for you guys ! Thanks in advance 🙂
+
+&amp;#x200B;
+
+1. Do you guys prefer online degree or on-campus degree (or does not even care) ? 
+
+2. Which master degree do you guys recommend? ex. Stanford, Indiana University, University of Alberta...  
+
+&amp;#x200B;
+
+Thank you !!",https://www.reddit.com/r/datascience/comments/bgbg9b/to_hiring_manager_online_degree/,26,0,1555989997
+99,Text Classification Algorithms: A Survey,,https://www.reddit.com/r/datascience/comments/bgcipa/text_classification_algorithms_a_survey/,0,1,1555996937

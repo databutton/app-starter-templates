@@ -56,3 +56,4 @@ def app():
     #builder.configure_default_column(groupable=True, filterable=True, sorteable=True, resizable=True, aggFunc='sum')
     #go = builder.build()
     #AgGrid(df, gridOptions=go, enable_enterprise_modules=True, height=800, width=1000)
+    
