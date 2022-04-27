@@ -1,17 +1,11 @@
 import pandas as pd
 import databutton as db
 import streamlit as st
-import ray
 
 
-# Store
-# { index: revelance }
-
-# db.put(f"relevance-{index}", relevance)
-@db.streamlit('/rinder')
+@db.streamlit('/classify')
 def dash():
-    ray.init()
-    df = pd.read_csv('./notebooks/full_dataset.csv')
+    df = pd.read_csv('./data/full_dataset.csv')
     random_post = df[df['relevance'] == -1].sample(n=1).to_records()[0]
     st.title('Rinder')
     st.markdown(
