@@ -1,0 +1,535 @@
+,title,selftext,full_link,num_comments,score,retrieved_on
+0,Survey on Causal Data Science,[removed],https://www.reddit.com/r/datascience/comments/fo5bhc/survey_on_causal_data_science/,0,1,1585057405
+1,Any recommendations for learning data visualization in R?,"Dear fellow colleagues, 
+I want to hone my data visualization skills. I searched for courses online but i couldnt find any good course that is specialized in data visualization in R. If you have any recommendations about books or online courses i would be very happy to check them out. 
+
+Thank you all",https://www.reddit.com/r/datascience/comments/fo5i77/any_recommendations_for_learning_data/,9,1,1585058179
+2,How Big Data and Data Science work best together? | iunera,,https://www.reddit.com/r/datascience/comments/fo5ofi/how_big_data_and_data_science_work_best_together/,0,1,1585058852
+3,The quest for the best Hacker News title,,https://www.reddit.com/r/datascience/comments/fo5pqe/the_quest_for_the_best_hacker_news_title/,0,1,1585058985
+4,"If anyone is really into keyboard shortcuts like I am I just found a guide that has a ton of them for many IDE's. Includes: Python, Tableu, Excel, SQL, R, SAS, SPSS, Matlab &amp; Stata.","Not sure if its been posted before or not.
+
+[https://365datascience.com/wp-content/uploads/2020/01/Shortcuts-for-Data-Scientists-2020.pdf](https://365datascience.com/wp-content/uploads/2020/01/Shortcuts-for-Data-Scientists-2020.pdf)",https://www.reddit.com/r/datascience/comments/fo5stq/if_anyone_is_really_into_keyboard_shortcuts_like/,40,1,1585059304
+5,What is this kind of viz called and what tools are used to create it on an interactive map? Does anyone have tutorials or similar examples?,,https://www.reddit.com/r/datascience/comments/fo6fgm/what_is_this_kind_of_viz_called_and_what_tools/,3,1,1585061732
+6,Predict a lot of y's,"Hi guys, I am a bit new to this stuff and looking for some help on how to tackle this problem.
+
+I have a dataset of departments, with clients (and their needs) and staff (and their hours) for each day. I am looking for a way to predict how much (in hours) of each 'type' of staff (likely based on their position in the team), given a set of expected clients and other factors. 
+
+As far as I can tell, to predict the expected hours for every position type, requires a seperate model for every position type. My case is that there a lot of different positions, and potentially a very large amount of models to essentially create one dataset.
+
+What is an efficient way to tackle this? Should I automate modelling for every y is there a better way to think about this problem?",https://www.reddit.com/r/datascience/comments/fo7sd5/predict_a_lot_of_ys/,7,1,1585066549
+7,"Translating ""Wash your hands"" into 500 languages",,https://www.reddit.com/r/datascience/comments/fo83qo/translating_wash_your_hands_into_500_languages/,0,1,1585067606
+8,"Would you rather have an Analyst on your team who has great Technical Skills (but bad Soft Skills), Great Soft Skills (but bad Technical Skills), or Average at Both?","What do you think??
+
+[View Poll](https://www.reddit.com/poll/fo84cp)",https://www.reddit.com/r/datascience/comments/fo84cp/would_you_rather_have_an_analyst_on_your_team_who/,11,1,1585067662
+9,Is it too late to snag a summer internship?,[removed],https://www.reddit.com/r/datascience/comments/fo8eeq/is_it_too_late_to_snag_a_summer_internship/,0,1,1585068628
+10,"self made data scientist, what's your story?","hello, 
+
+Im interseted in hearing stories about those with no background in data science or computer science becoming data scientists, how did you do it? what made you want to change your career? What were some major challenges you faced? 
+
+Thank you for sharing",https://www.reddit.com/r/datascience/comments/fo8k0l/self_made_data_scientist_whats_your_story/,5,1,1585069141
+11,Papers demonstrating application of SEM analysis,"Hello experts - I have read about Structural Equation Modeling in grad school, I also seem to understand how it works and what it is used for. Can someone point me to a paper that demonstrates a real life application end to end ? I don't work in academia anymore so an open access or a public link would be really appreciated. Thank you all!",https://www.reddit.com/r/datascience/comments/fo8xo0/papers_demonstrating_application_of_sem_analysis/,2,1,1585070358
+12,Data Scientist- resume feedback,[removed],https://www.reddit.com/r/datascience/comments/fo8zv5/data_scientist_resume_feedback/,0,1,1585070556
+13,Interview question. Explain one interesting machine learning project you’ve worked recently. Focus is on solving real-world problems. And a fun project.,"1. Problem statement 
+2. Explain the technique you’ve used
+3. Constraints you’ve faced
+4. Tools you’ve loved using (bonus points if you can include libraries too)
+5. Solution
+Include GitHub link if you wish.",https://www.reddit.com/r/datascience/comments/fo98hi/interview_question_explain_one_interesting/,0,1,1585071340
+14,Anyone here in Northeastern's M.S Data Science Program?,"It's one of my schools I'm looking to go to get my masters once my undergraduate is completed next year. I was wondering what scores you got in with (GPA, GRE,) and what your overrall opinion is on the program. Thanks",https://www.reddit.com/r/datascience/comments/fo98pf/anyone_here_in_northeasterns_ms_data_science/,1,1,1585071358
+15,KPI Dashboard: UC Berkeley,"UC Berkeley KPI Dashboard: Updated
+
+https://preview.redd.it/9u34al4hpno41.png?width=2000&amp;format=png&amp;auto=webp&amp;s=08bbf3783f69a75db0c65114138c11924139894c
+
+Link: [https://public.tableau.com/profile/shah.pankaj#!/vizhome/MOM\_wk\_11/MOM\_wk\_12](https://public.tableau.com/profile/shah.pankaj#!/vizhome/MOM_wk_11/MOM_wk_12)
+
+Combine : Arts  + Viz
+
+Feedback Welcome",https://www.reddit.com/r/datascience/comments/fo999d/kpi_dashboard_uc_berkeley/,0,1,1585071408
+16,Trying to maximize my usage of desk space real estate around me to work more efficiently. What things (e.g. a giant SQL/Python cheat-sheet pasted on the wall infront of you) do you keep in your proximity to improve your work more efficiently.,"Probably going to be one of the more unorthodox threads to come up here!
+
+But I went from using a single monitor to dual monitors a couple of months ago and now I'll *never* doubt the influence on your efficiency your work set-up can have!
+
+Curious to hear about anything anyone has to say on this.",https://www.reddit.com/r/datascience/comments/fo9bzi/trying_to_maximize_my_usage_of_desk_space_real/,1,1,1585071649
+17,All SAS e-learning is free for 30 days including the Data Science Academy,,https://www.reddit.com/r/datascience/comments/fo9e59/all_sas_elearning_is_free_for_30_days_including/,7,1,1585071846
+18,Why are most of the data science articles on Medium?,"Just curious on why most of the articles/guides go on Medium and not their personal blogs or even GitHub pages. Medium is good but seem to be a paywalled annoyance, similar to the news websites.",https://www.reddit.com/r/datascience/comments/fobxih/why_are_most_of_the_data_science_articles_on/,25,1,1585079942
+19,Dissertation / Thesis idea required for MSc Data Analytics,[removed],https://www.reddit.com/r/datascience/comments/fod2oa/dissertation_thesis_idea_required_for_msc_data/,0,1,1585083611
+20,Should you set the intercept before doing linear regression?," 
+
+Is it true that you should set the y-intercept to 0 before doing linear regression if you absolutely know y = 0 when x = 0 ?
+
+As explained in this video: [https://youtu.be/Rb8MnMEJTI4?t=278](https://youtu.be/Rb8MnMEJTI4?t=278)",https://www.reddit.com/r/datascience/comments/foe48a/should_you_set_the_intercept_before_doing_linear/,3,1,1585087054
+21,"Why is ML,DL,AI so hyped, have they actually solved anything big enough?",,https://www.reddit.com/r/datascience/comments/fof28c/why_is_mldlai_so_hyped_have_they_actually_solved/,10,1,1585090344
+22,Looking for a mentor,"Hi all I’m a recent bs grad, job searching for a data analytics/science position in New York. But I’ve been having trouble looking for one. Virus thing doesn’t help but gives me time I guess.
+
+Background:
+Industrial engineering w minor in econs 
+Wasn’t mature enough for college so I scraped through
+Now I wanna do something about it.
+I know basic sql, r, tableau, excel and now working on python. 
+Took 1 C course during a sem in college. 
+Never had a data internship (it’s all a ripple effect) have been close to getting a job twice out of hundreds of applications, but that I know is due to my incompetence in the subject matter. 
+
+Currently I have been trying to do some home studying to better my beginner understanding in the subject by doing the codeacademy data science course and working on a textbook called thinking in python 2e. 
+
+Hence, I’m looking for a mentor/meetups in the city that could help guide me and teach me the foundation of learning the subject and gaining my own independence as well as learning to equip myself with the necessary knowledge and strategies on nailing job interviews within this industry.
+
+Thank you for listening, I don’t expect anything but I just thought Id take the fullest opportunity that reddit has to offer as a positive platform for good and for expressing my thoughts. 
+
+PS: I’m not opposed to grad school. But even then I recognize that I need to build myself to a credible ability first. Which I’m not quite sure I know how to.",https://www.reddit.com/r/datascience/comments/fog3ka/looking_for_a_mentor/,1,1,1585093985
+23,Can someone explain PP&amp;L in data science in simple ways?,,https://www.reddit.com/r/datascience/comments/foh58m/can_someone_explain_ppl_in_data_science_in_simple/,5,1,1585097901
+24,How to get around MS Access if possible?,,https://www.reddit.com/r/datascience/comments/foj2g3/how_to_get_around_ms_access_if_possible/,0,1,1585105759
+25,What Data Science Course from Coursera should I take after 365 data science.,"So currently 365 data science offered its courses for free and I am on track to finish them by april 15th.
+
+The thing is Coursera is offering a pi day promotion for data science also. Could anyone reccomend me a course/specialization that I could take to further my knowledge of data science after 365 Data Science?
+
+Here's the link for reference :
+
+ [https://www.coursera.org/promo/pi-day-2020?ranMID=40328&amp;ranEAID=JphA7GkNpbQ&amp;ranSiteID=JphA7GkNpbQ-mgaS4FnZV6P83.Wmqi3Tbw&amp;siteID=JphA7GkNpbQ-mgaS4FnZV6P83.Wmqi3Tbw&amp;utm\_content=10&amp;utm\_medium=partners&amp;utm\_source=linkshare&amp;utm\_campaign=JphA7GkNpbQ](https://www.coursera.org/promo/pi-day-2020?ranMID=40328&amp;ranEAID=JphA7GkNpbQ&amp;ranSiteID=JphA7GkNpbQ-mgaS4FnZV6P83.Wmqi3Tbw&amp;siteID=JphA7GkNpbQ-mgaS4FnZV6P83.Wmqi3Tbw&amp;utm_content=10&amp;utm_medium=partners&amp;utm_source=linkshare&amp;utm_campaign=JphA7GkNpbQ)",https://www.reddit.com/r/datascience/comments/fojqo9/what_data_science_course_from_coursera_should_i/,18,1,1585108733
+26,Data Cleaning Guide,"Data analysis is a time-consuming task, I feel data cleaning is really important at the beginning of the data analysis. According to my experience, saving 80% of the time is maybe exaggerated, but it is worth reading this  [Data Cleaning Guide: Saving 80% of Your Time to Do Data Analysis](https://www.finereport.com/en/data-analysis/data-cleaning-guide-saving-80-of-your-time-to-do-data-analysis.html?utm_source=reddit&amp;utm_medium=media&amp;utm_term=200325_3&amp;utm_content=200325_3).
+
+And I am wondering is there any other methods for data cleaning？",https://www.reddit.com/r/datascience/comments/fojrnx/data_cleaning_guide/,1,1,1585108854
+27,Microsoft Univeristy Recruitment (grad students),[removed],https://www.reddit.com/r/datascience/comments/fol3ko/microsoft_univeristy_recruitment_grad_students/,0,1,1585115357
+28,Gtfs data analysis,has anyone worked with gtfs data? Just like real-time bus arrival prediction ?,https://www.reddit.com/r/datascience/comments/fol6ws/gtfs_data_analysis/,0,1,1585115876
+29,Engineer to Data Scientist,"Hi, I am an Engineer who has been using Python and MATLAB for several years. My background is in instrumentation and data analysis (non-linear regression, optimization, classification, image processing, filters etc.). About 10 years back I also built websites (mysql, python/java/perl) etc. I love to work with data, but the ""instrumentation"" part keeps me away from it. I recently took some courses in Machine learning (online and in person). They were very  interesting and I aced the programming assignments, but haven't ever used them (neural networks etc.)
+
+What are my chances to get into this field. I have applied for several jobs, but never got a response. Any suggestions?
+
+Thanks.",https://www.reddit.com/r/datascience/comments/folhw9/engineer_to_data_scientist/,0,1,1585117544
+30,Need Advice : /,"Hi Guys
+
+I'm going to keep this short and sweet. I have a background in Finance and Investment management. I also am competent in VBA and SQL. I am slowly building my Python skills. I want to move into the AI engineering field. What should I do to get there? I am considering doing a CS degree part time?
+
+Thanks for any advice.
+
+Kind Regards",https://www.reddit.com/r/datascience/comments/follx0/need_advice/,11,1,1585118182
+31,"We’re hopeful that by shedding light on products with excess demand and insufficient supply, businesses can more easily focus on the things that matter most and be better stewards to the world in this time of crisis.",,https://www.reddit.com/r/datascience/comments/foml4d/were_hopeful_that_by_shedding_light_on_products/,4,1,1585123759
+32,Does anyone know reliable sources of COVID-19 datasets or reports that report ages of patients and dead and prior health issues?,"WHO and European CDC don’t provide such important details. They only report new cases and deaths. But this is not enough data to draw any conclusions. And taking data from unreliable sources can lead to wrong conclusions, which we all don’t need. Don’t want to add to the fake news. 
+
+Please share reliable sources of additional data that you found useful. This can be something else not just age and illnesses.",https://www.reddit.com/r/datascience/comments/fomnmg/does_anyone_know_reliable_sources_of_covid19/,1,1,1585124140
+33,Part 1 of a debrief from the inspiring #datavizlive event in London last month,,https://www.reddit.com/r/datascience/comments/fona86/part_1_of_a_debrief_from_the_inspiring/,0,1,1585127797
+34,10 Must-read Machine Learning Articles (March 2020),,https://www.reddit.com/r/datascience/comments/foob87/10_mustread_machine_learning_articles_march_2020/,1,1,1585133610
+35,Getting a job with a physics degree,"Hi folks,
+
+I like many others have a lot of time on my hands at the moment. For those of you that got a job with a physics degree or similar (or maybe no degree), what did you learn in order to get your first job? Thanks. Stay safe.",https://www.reddit.com/r/datascience/comments/foogft/getting_a_job_with_a_physics_degree/,10,1,1585134351
+36,Build Your First News Data Pipeline With Python &amp; Newscatcher,,https://www.reddit.com/r/datascience/comments/foojv9/build_your_first_news_data_pipeline_with_python/,1,1,1585134797
+37,RStudio read.csv rows missing,"I downloaded data from a dremio database. There are 1000 lines. I then export it as a csv file. But when I try to read this csv file back in Rstudio  I only have 478 rows and I get this error: 
+
+Warning message:
+
+In scan(file = file, what = what, sep = sep, quote = quote, dec = dec,  :
+
+  EOF within quoted string
+
+&amp;#x200B;
+
+here is my code:
+
+    exportedData &lt;- X[c(1:1000),]
+    
+    write.csv2(exportedData,""queryCI2019.csv"")
+    
+    importedData &lt;- read.csv2(""queryCI2019.csv"")
+    
+
+Here is the exported data as a csv file [https://drive.google.com/file/d/1cb\_mHOQYSzIYEdagnEfyReAH8mlV8kE0/view?usp=sharing](https://drive.google.com/file/d/1cb_mHOQYSzIYEdagnEfyReAH8mlV8kE0/view?usp=sharing)
+
+&amp;#x200B;
+
+I tried write.csv and write.csv2 I fet the same problem.
+
+I can't figure out what I am doing wrong.",https://www.reddit.com/r/datascience/comments/fooqm5/rstudio_readcsv_rows_missing/,2,1,1585135793
+38,White House Announces New Partnership to Unleash Supercomputing Resources to Fight COVID-19,,https://www.reddit.com/r/datascience/comments/foozin/white_house_announces_new_partnership_to_unleash/,9,1,1585137073
+39,Is it possible to progress nicely in Data Science jobs without a post-grad?,"Hi guys, since all of you here are data science practitioners, I wanted to ask if people, who are good at data science but dont have an official post-grad in the same, can do well in this field or get frequent promotions or earn a lot?",https://www.reddit.com/r/datascience/comments/fopd82/is_it_possible_to_progress_nicely_in_data_science/,2,1,1585138927
+40,"Anyone have any good/interesting online courses to add knowledge or skills? I’m a senior majoring in statistics, I have a data analysis job and really like the idea of data science, but I want more exposure. Thanks!",,https://www.reddit.com/r/datascience/comments/fopf5a/anyone_have_any_goodinteresting_online_courses_to/,2,1,1585139180
+41,"Data Teams Going ""Remote"" - Challenges, Learnings &amp; Observations","Folks, how are you and your data teams impacted in the current situation? Has the ""remote"" transition been easy? While my team is working hard with IT/admin to resolve their access issues + tool/tech setup, I was wondering if you had any useful tips, challenges you faced or learnings you'd like to share? Would appreciate inputs on how intangible elements like collaboration, productivity/agility could likely be impacted...",https://www.reddit.com/r/datascience/comments/fopudp/data_teams_going_remote_challenges_learnings/,1,1,1585141135
+42,Is transition possible for someone with my background?,"Hey, 
+
+So I have a bit of an eclectic academic history which has been fun for the most part, but a lack of focus has finally caught up with my and my options to remain in academia is now somewhat lacking - enter the idea of a Data Science career?
+
+Basic history:
+
+MEng in Electrical Engineer, PhD in Applied Physics (Particle Accelerators), Postdoc in Scientific Software Development (you see the problem?)
+
+Computing skills:   
+C++, Python, C, Java, MATLAB, Mathematica, R, Git, GitHub, Excel/Sheets, Linux-based systems
+
+No real SQL/Hadoop experience unfortunately.
+
+As far as statistics goes, I consider myself competent but never really been involved in a project which was stat heavy. 
+
+Same goes for machine learning, even done the Stanford Coursera course a while back because I was interested, but never really worked on a project involving ML.
+
+How are employers with regard to taking into account online courses? Could I do a reasonable online Data Science qualification like the coursera IBM one to brush up on SQL etc and actually have a chance at transitioning or has that ship sailed now that people are graduating with Data Science degrees these days?
+
+Cheers",https://www.reddit.com/r/datascience/comments/foqldd/is_transition_possible_for_someone_with_my/,1,1,1585144216
+43,"Data teams, what do you hate about having to work remotely?","While my team is working hard with IT/admin to resolve access issues and setups, was wondering if my we are alone in this shitty situation",https://www.reddit.com/r/datascience/comments/foqve3/data_teams_what_do_you_hate_about_having_to_work/,25,1,1585145268
+44,Which are the most important chapters in An Introduction to Statistical learning,"I understand all of it has some important stuff. From the harsh guide to machine learning he specified to read chapter 1-4, and 7-8. Is there any similar regions in this I should be focusing on. I wanted to branch off into Andrew Ng’s machine learning coursera course before finishing the rest of this book.
+
+Thanks for any input.",https://www.reddit.com/r/datascience/comments/forgyf/which_are_the_most_important_chapters_in_an/,1,1,1585147518
+45,Try to go into datascience at 30yo with a biology background,[removed],https://www.reddit.com/r/datascience/comments/forkw3/try_to_go_into_datascience_at_30yo_with_a_biology/,0,1,1585147925
+46,Spatial Modelling Tidbits: Hexagons vs geo-hashes to aggregate lat longs into grids.," **Grid system** brings that fine granularity to the table. It works brilliantly in bucketing all your lat-longs into “cells”. These cells can also be clustered to represent a particular neighborhood or area and can be aggregated at different levels. There are just three types of grids or that can tessellate: squares, equilateral triangles &amp; hexagons. But, why do we prefer aggregations over hexagons and not squares. Read here: [https://blog.locale.ai/spatial-modelling-tidbits-honeycomb-or-fishnets/](https://blog.locale.ai/spatial-modelling-tidbits-honeycomb-or-fishnets/)",https://www.reddit.com/r/datascience/comments/forn30/spatial_modelling_tidbits_hexagons_vs_geohashes/,0,1,1585148153
+47,"Tools for handling some of the more common data cleaning operations (e.g. matching names when it's stored in different formats like ""John Smith"" vs ""Smith John"" vs ""Smith, John"").","Curious about whether any of you have go-to resources when it comes to looking for methods to perform some common data-cleaning operations for you, since oftentimes this is more time-efficient than building your own solution!
+
+It doesn't have to be the example mentioned in the title, it can be anything else you often find yourself having to clean in your day-to-day job!",https://www.reddit.com/r/datascience/comments/forw59/tools_for_handling_some_of_the_more_common_data/,4,1,1585149029
+48,"FREE Course ""SQL For Marketing &amp; Growth Professionals""",,https://www.reddit.com/r/datascience/comments/fos065/free_course_sql_for_marketing_growth_professionals/,0,1,1585149425
+49,Advice for a 16 YO planning to work in DS,"Greetings, I am 16 years old and I am currently in my penultimate year of school (I am a Russian citizen but am studying in an english school in Malta).
+
+I am interested in Data Science, as of now I have a good command of python and a portion of the PyData stack (numpy, pandas, matplotlib, studying scikit-learn). I know basic SQL, studying the necessary Statistics and math, and am planning to join Kaggle competitions and build my own personal projects over the next 2 years.
+
+I personally have little desire to get a bachelors degree and would want to start working right after school (also partially due to financial limitations).
+
+The country of work would for the first few years be either Malta or Russia, after which I plan to go work in Australia for 4 years to become a citizen there. There is a chance I might need to get a bachelors degree to avoid getting drafted to the Russian army.
+
+What would your advice be for me in my current situation? The only specific question I have is what kind of degree (If i had to do one) would give me the most of which it is hard to study on my own, whilst obviously still being adequately related to Data Science?",https://www.reddit.com/r/datascience/comments/foszaw/advice_for_a_16_yo_planning_to_work_in_ds/,1,1,1585152817
+50,statsmodels vs sklearn for the linear models,"I just finished the topic involving the linear models. I use a couple of books and video tutorials to complement learning and I noticed that some of them use `statsmodels` to work with regressions and some `sklearn`.
+
+My question is, which one is practiced more often in the DS field and which one would you advise mastering?
+
+in `statsmodel` I like that you can used method *summary()* to print all the details and metrics of the regression, is there something similar for the `sklearn`? 
+
+Also, I noticed that `sklearn` is easier for various plotting. However, I can simply use `seaborn` library.
+
+thanks",https://www.reddit.com/r/datascience/comments/fotjm9/statsmodels_vs_sklearn_for_the_linear_models/,14,1,1585154715
+51,CoVid-19 Global Meter - Live Dashboard,,https://www.reddit.com/r/datascience/comments/foud2l/covid19_global_meter_live_dashboard/,35,1,1585157453
+52,Should I make the jump to a data scientist?,[removed],https://www.reddit.com/r/datascience/comments/fov9ub/should_i_make_the_jump_to_a_data_scientist/,0,1,1585160503
+53,Predictions about the Evolution of COVID19 worldwide,[removed],https://www.reddit.com/r/datascience/comments/fox4eb/predictions_about_the_evolution_of_covid19/,0,1,1585166624
+54,A Template for COVID-19 Research,,https://www.reddit.com/r/datascience/comments/fox9t8/a_template_for_covid19_research/,0,1,1585167090
+55,A Template for COVID-19 Research,,https://www.reddit.com/r/datascience/comments/foxa8n/a_template_for_covid19_research/,0,1,1585167120
+56,The best resources for staying up to date with all things data,"A while back we created an internal document with the top 5 resources for our own reference which entails content from different formats, viz., *newsletters, podcasts, books, courses, communities, and conferences.* 📊
+
+[https://iterative.ly/blog/best-resources-data-and-analytics-folks/](https://iterative.ly/blog/best-resources-data-and-analytics-folks/)
+
+Today, we are making it public. Hope this helps! 👍",https://www.reddit.com/r/datascience/comments/foxecv/the_best_resources_for_staying_up_to_date_with/,2,1,1585167522
+57,Can Self-Driving Cars Learn Depth Perception? 🚘,,https://www.reddit.com/r/datascience/comments/foxrsc/can_selfdriving_cars_learn_depth_perception/,1,1,1585168766
+58,Coronavirus Confusion Matrix Anywhere?,"I found some research papers saying accuracy was 85-90% for China, but i dont know if it is the same test for the US.
+
+My mom is a non ICU nurse, so im really interested in false negative rate.
+
+Thanks in advance!",https://www.reddit.com/r/datascience/comments/foxz2m/coronavirus_confusion_matrix_anywhere/,1,1,1585169433
+59,SPAD for agglomerative clustering,[removed],https://www.reddit.com/r/datascience/comments/fozv93/spad_for_agglomerative_clustering/,2,1,1585176015
+60,Anyone here work with Polynote and Jupyter?,,https://www.reddit.com/r/datascience/comments/fp115z/anyone_here_work_with_polynote_and_jupyter/,1,1,1585180080
+61,Corporate training fees?,"For those who have conducted in-person corporate training in analytics (think basic data cleaning and analysis using pandas in Python, or tidyverse in R): What fees did you charge and how did that vary based upon organization and class size?  Just curious as I've heard different people get training quotes all over the place.",https://www.reddit.com/r/datascience/comments/fp1b24/corporate_training_fees/,7,1,1585181081
+62,Data Science Advice - Panel Discussion,"Here is a panel discussion with data scientists. I wanted to share with the community, for anyone considering starting a career in data science.
+
+ [https://coryrobertlowe.com/index.php/2020/03/26/ask-a-data-scientist-panel-rockhurst-university/](https://coryrobertlowe.com/index.php/2020/03/26/ask-a-data-scientist-panel-rockhurst-university/)",https://www.reddit.com/r/datascience/comments/fp25wv/data_science_advice_panel_discussion/,0,1,1585184269
+63,University of Arizona vs CU Boulder vs UW Seattle,"I have received a full tuition scholarship (Global Wildcat Scholarship) for the University of Arizona, where I will be majoring in Statistics and Data Science. This program also requires a minor with it, which I plan to pursue in CS.
+
+I have also received admits from the University of Washington - Seattle for Applied and Computational Mathematics, and the University of Colorado - Boulder for Statistics and Data Science. I will be paying the full international tuition at UW - Seattle. CU Boulder has offered me a merit scholarship, but is still much more expensive than the University of Arizona. Bearing the cost of either of these universities will be very hard for me. I will most likely have to take out out a loan if I want to attend CU Boulder or UW Seattle. On the other hand, I can easily afford to attend the University of Arizona without having to take a loan. 
+
+I am interested in working in the tech industry. Since Seattle is a major tech hub, and also has an active startup scene, would this make UW Seattle a more attractive option? 
+
+I would greatly appreciate any insights on this. Thanks in advance.",https://www.reddit.com/r/datascience/comments/fp4or6/university_of_arizona_vs_cu_boulder_vs_uw_seattle/,1,1,1585194588
+64,Imbalanced classification,What are the general thoughts on SMOTE in relation to imbalanced classification problem. What do you guys usually do for such problems.,https://www.reddit.com/r/datascience/comments/fp4va5/imbalanced_classification/,1,1,1585195372
+65,What statistics should I know to do data science?,,https://www.reddit.com/r/datascience/comments/fp6242/what_statistics_should_i_know_to_do_data_science/,2,1,1585201016
+66,The importance of the data process in crating user centered technical solutions,"Hi, not sure if this is the place to ask but here it goes. I'm currently writing my application to the data science (informatics) program at my school. In my essay I mentioned that I've gained a greater understanding of the data science process (collecting data, analyzing it, extracting insights from data).
+
+The feedback I received from the advisers asks me how understanding this data process impacts the way we build a user centered technical solution.
+
+I'm a bit stumped on what to say and would appreciate some thoughts. So far the only thing I've come up with is that it helps us break down the problem we are trying to address.",https://www.reddit.com/r/datascience/comments/fp6oh7/the_importance_of_the_data_process_in_crating/,3,1,1585204295
+67,3D reconstruction challenge at the ECCV 2020,"Hi everyone, 
+
+My company, Artec 3D, is hosting two 3D reconstruction challenges during the SHApe Recovery from Partial textured 3D scans (SHARP) workshop at the [ECCV 2020](https://eccv2020.eu/) conference that we’re hosting together with the University of Luxembourg on August 23rd: [https://cvi2.uni.lu/sharp2020/](https://cvi2.uni.lu/sharp2020/)
+
+The main task of the challenges is to reconstruct a full 3D textured mesh from a partial 3D scan of a human body (#1 challenge) and a variety of generic objects (#2 challenge).
+
+To take part in this challenge, you can either sign up for the offline workshop and submit the results in the form of short/long paper, or join it online and submit your results in the form of code.
+
+The overall prize fund for the winners is 6000€.
+
+The deadline for registration has been extended until April 6, and we’re inviting you all to participate!
+
+If this is something you're interested in, please head over to [https://cvi2.uni.lu/sharp2020/](https://cvi2.uni.lu/sharp2020/) for more details, and when ready, sign up for the challenge at [https://cvi2.uni.lu/sharp2020/registration/](https://cvi2.uni.lu/sharp2020/registration/).
+
+If you have any questions, please contact our challenge curator Xenia at kcherenkova@artec-group.com
+
+Thanks!",https://www.reddit.com/r/datascience/comments/fp7ffg/3d_reconstruction_challenge_at_the_eccv_2020/,1,1,1585208325
+68,Offline lightweight charting tools?,"Hi guys, I’m currently looking for a lightweight package which will automatically generate a nice chart from a csv file. This chart would be in .pdf or .png format. It really is a jungle out there of BI and data visualization tools so I was wondering if anyone here knew a package like this?",https://www.reddit.com/r/datascience/comments/fp8o6v/offline_lightweight_charting_tools/,1,1,1585215429
+69,Which course do you recommend on Coursera or Udemy that best teaches data science?,,https://www.reddit.com/r/datascience/comments/fp8qdn/which_course_do_you_recommend_on_coursera_or/,1,1,1585215755
+70,IS THERE ANY SIMILARITY BETWEEN DATA ANALYSIS &amp; DATA ANALYTICS?,[removed],https://www.reddit.com/r/datascience/comments/fp93mf/is_there_any_similarity_between_data_analysis/,0,1,1585217755
+71,"An Honest Review of Springboard's Data Science Career Track Bootcamp (It's a Scam), along with Free Material Related to Spark and Data Science in Production That I Found Useful","Hi all, after taking a trial of Springboard's Data Science bootcamp, a 500+ hour online program that guarantees a job after graduation, I felt compelled to share my experience with the this subreddit.
+
+I know that there are already posts on here about Springboard, but I hope that this will provide some additional valuable insights on the program to anyone who is considering joining. Bad idea!
+
+Why You Shouldn't Join Springboard:
+
+1. Springboard generally does not produce data scientists in their Data  Science bootcamp
+2. The job guarantee only applies if you take your first job that you receive and offer from, and if that offer **pays at least $50,000.** 
+3. The CEOs [Gautam Tambay](https://twitter.com/gautambay?lang=en) and [Parul Gupta](https://twitter.com/parul8ue?lang=en) don't seem to have much visibility / signal on the Internet, compared to Lambda School's [Austin Allred](https://twitter.com/Austen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), who is followed by Ian Goodfellow, Jeff Dean, and Jeremy Howard on Twitter.
+4. The course material has been plucked mostly from DataCamp (very basic) and a plethora of videos/articles (all of which are FREE).
+
+&amp;#x200B;
+
+Not conviced? Let's dive right in.
+
+&amp;#x200B;
+
+# 1. Springboard generally does not produce data scientists in their Data  Science bootcamp
+
+I'll start from the beginning, where my bullshit meter picked up its first red flags.
+
+I was first intrigued by that job guarantee. ""Hmm... so you're telling me I can become a real data scientist after this??""
+
+[Springboard's Data Science bootcamp: claiming a job guarantee](https://preview.redd.it/py1m5ek7bzo41.png?width=771&amp;format=png&amp;auto=webp&amp;s=297299da8ccf25d2f87296f2ba8b347ee312dfd5)
+
+No, there are a few problems with that statement. There is no guarantee that you will become a data scientist, just that you will get a job. And after looking through the course material while on my 7-day trial, I came across a video stating that Springboard actually mostly produces data analysts/ risk analysts/analysts.
+
+[Most Springboard alums have the role of data analyst or risk analyst, not data scientist](https://preview.redd.it/tnv3ezsdbzo41.png?width=1000&amp;format=png&amp;auto=webp&amp;s=4d1b5e8279a2aa468c97520d1cea36049dd62e36)
+
+[Still don't believe me? Ok here you go.](https://preview.redd.it/fbttam09dzo41.png?width=1046&amp;format=png&amp;auto=webp&amp;s=13b830e2ccc100b455c56c719a6485b635b9417f)
+
+&amp;#x200B;
+
+And indeed, I love using LinkedIn to cross-check people and find my facts, so I looked up all the alumni in their alumni spotlight page, and indeed found that the majority of people who graduated from Springboard's program actually had Data Analyst / Business Analyst as their first job upon graduation. You know those people who put buzzwords on their headline for no fcking reason? Yeah, I found a few of those 🤷.
+
+Ok, so I don't get to become a data scientist. There must be something good about this program, right??
+
+&amp;#x200B;
+
+# 2. The job guarantee only applies if you take your first job that you receive and offer from, and if that offer pays at least $50,000. 
+
+My BS alarm rang a second time while I was pondering the idea of salary. You see, Springboard may guarantee a job, but will this job pay the kind of salary that I'm expecting a ~~data scientist~~ data analyst to make? Well, I used *their* salary calculator that they advertise on their page, which tells me 
+
+[if I became an entry-level data scientist, I would make $121,935 a year in SF](https://preview.redd.it/2bvzjybbczo41.png?width=1186&amp;format=png&amp;auto=webp&amp;s=000ad9752bf7dc9b8601745b9024ad4eaa9623ac)
+
+that the average data scientist makes $121,935 a year, which is three times I made in my last job (I'm currently unemployed ;() On the other hand, an entry-level data analyst typically makes around $70,000 in SF. So, yeah, that's some BS.
+
+So I mentioned I like looking up people on LinkedIn, right? Well, I looked up the first face you see on Springboard's home page:
+
+[sorry Kavisha, this isn't personal](https://preview.redd.it/sdmeqww3ezo41.png?width=645&amp;format=png&amp;auto=webp&amp;s=4e4d6e96c618d273ec5bd29810d25937db0e6436)
+
+It turns out this individual took the Springboard Data Science Bootcamp, and is now a Software Quality Operations Associate at Waymo. Sounds amazing, right??
+
+No. It's a contractor position that pays $25 an hour. How do I know? Because I worked in a similar role in Apple's autonomous system team , and I get e-mails from staffing agencies about this position ALL THE TIME (they are very upfront about the hourly rate, and also thanks [Glassdoor](https://www.glassdoor.com/Salaries/software-quality-operations-associate-salary-SRCH_KO0,37.htm)).
+
+ So technically, Kavisha made 25/hr -&gt; $50,000 a year.
+
+Now, Springboard's claim that if you don't find a job that pays $50k+ within 6 months of graduation, you'll get a full refund of the tuition. Now, there was no guarantee that they would find you a data scientist role, and ***they never explicitly mention their graduates' average salary*** (only beating around the bush!). So that meant poor Kavisha must accept this job and live off a salary of $50k in Silicon Valley, with no refund, because she made just the right amount to not be eligible for a refund :(
+
+ By this point, my brain was telling me SCAM, but I wanted to check something.
+
+&amp;#x200B;
+
+# 3. The CEOs [Gautam Tambay](https://twitter.com/gautambay?lang=en) and [Parul Gupta](https://twitter.com/parul8ue?lang=en) don't seem to have much visibility / signal on the Internet, compared to Lambda School's [Austin Allred](https://twitter.com/Austen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), who is followed by Ian Goodfellow, Jeff Dean, and Jeremy Howard on Twitter.
+
+I mentioned I like looking people up on LinkedIn, right?? Well, turns out I also like looking up people on Twitter because it's now one of my primary sources of getting useful bits of information from really really smart people in data science and machine learning whom I admire and follow. Consequently, I can simply look up who's connected to whom in my network. Well, I looked up the Springboard CEOs, and guess how many of their followers do I follow? 0. None. 
+
+On the other hand, Austin Allred, the CEO of Lambda School, another data science / software engineering bootcamp (which seems badass by the way, simply because the majority of the time spent in their online curriculum is actually doing whiteboarding in the morning, group projects in the afternoon, and coding sprints just like in an engineering team!), is followed by Ian Goodfellow, Jeff Dean, Jeremy Howard, Sam Altman, Tim Ferriss, among others in my network, which gives *way* more credibility towards this program. 
+
+And since they were in [Y Combinator's 2017 Summer batch](https://blog.ycombinator.com/a-cs-education-thats-free-until-you-get-a-job-austen-allred-of-lambda-school/) and were funded by Y Combinator, their network is so profoundly valuable and talented that according to [this post](https://medium.com/@alimirio/why-you-should-join-lambda-school-and-forget-about-other-coding-bootcamps-c56fa9acd6a0), **Lambda School and other bootcamps is like deciding between Stanford University and Devry University.**  
+
+I might as well look up the Springboard mentors as well! So I did, and they seem pretty legit. But still, it's not worth it, because to be completely honest, for anyone out there looking for mentors or connections to a job, all you have to do is find the right people whose work you admire, either through a friend, family member, connection, or even LinkedIn, and spark a conversation with them and ask them questions about their work. If you are genuinely excited, they would be happy to share you with you and perhaps even help refer you. Trust me, this is way more fun than meeting a ""mentor"" on Google Hangouts who is paid to speak to you and give you guidance about your upcoming Capstone Project and career.
+
+&amp;#x200B;
+
+# 4. The course material has been plucked mostly from DataCamp (very basic) and a plethora of videos/articles (all of which are FREE).
+
+Ok, for the scammiest part of all! Almost none of the material they created is original content! Most of the first half of the course comprises of DataCamp courses, which you could just take without this bootcamp. The other half of the course comprises of articles and videos that they link to and tell you to look at. And then, there are a few minute long videos where a Springboard employee will introduce you to the chapter and tell you why it's important, or give you guidance on career/ interview. But that's it, folks. There's almost no originality in these courses. 
+
+I came to a bootcamp like this mainly because I felt like I needed to improve my skills in deploying data science to production, because most of my data science background has been in academia and small projects. I needed big boy professional experience! But what I came to realize is that I could have just googled: ""deploy data science to production"" and gotten the same results as this bootcamp. Yes, Springboard is profiting off of Youtube videos and Github repositories. Shame!
+
+In case you were wondering what those materials were, here are some useful tidbits of material I found from Springboard's course that I found to be useful (sharing this because it was meant to be shared, not sold):
+
+Learning Spark:
+
+ [https://github.com/okaram/spark-pycon15](https://github.com/okaram/spark-pycon15) 
+
+ [https://learn.datacamp.com/courses/introduction-to-pyspark](https://learn.datacamp.com/courses/introduction-to-pyspark) 
+
+ [https://www.youtube.com/watch?v=9xYfNznjClE&amp;t=12s](https://www.youtube.com/watch?v=9xYfNznjClE&amp;t=12s) 
+
+ [https://www.youtube.com/watch?v=qKYpMPPL-fo&amp;feature=youtu.be](https://www.youtube.com/watch?v=qKYpMPPL-fo&amp;feature=youtu.be) 
+
+Data Science in Production:
+
+ [https://github.com/FilippoBovo/production-data-science](https://github.com/FilippoBovo/production-data-science) 
+
+ [https://www.youtube.com/watch?v=YGk09nK\_xnM&amp;feature=youtu.be](https://www.youtube.com/watch?v=YGk09nK_xnM&amp;feature=youtu.be) 
+
+ [https://github.com/drivendata/data-science-is-software](https://github.com/drivendata/data-science-is-software) 
+
+ [https://www.youtube.com/watch?v=nFVjLSvK5po&amp;feature=youtu.be](https://www.youtube.com/watch?v=nFVjLSvK5po&amp;feature=youtu.be) 
+
+Testing in Data Science (yes, you should also write tests as a data scientist):
+
+ [https://www.youtube.com/watch?v=nFVjLSvK5po&amp;feature=youtu.be](https://www.youtube.com/watch?v=nFVjLSvK5po&amp;feature=youtu.be) 
+
+ [https://www.youtube.com/watch?v=yACtdj1\_IxE&amp;feature=youtu.be](https://www.youtube.com/watch?v=yACtdj1_IxE&amp;feature=youtu.be) 
+
+Craft a Resume:
+
+ [http://creddle.io/](http://creddle.io/) 
+
+&amp;#x200B;
+
+So what did I learn, that hopefully you can take away from?
+
+TL;DR This bootcamp is a scam. You probably won't become a data scientist. 
+
+You'll probably get a job as a data analyst that pays around $70,000.
+
+The credibility of the company's execs are dubious, compared to Lambda School's, by a far margin.
+
+Springboard is profiting off of free online material.",https://www.reddit.com/r/datascience/comments/fp94np/an_honest_review_of_springboards_data_science/,1,1,1585217912
+72,"Different ARIMA models for forecasting sales of many products, or one ARIMA model for all of them.","I have sales data for many products, my task is to do an ARIMA model to forecast sales for each product. I've done a tailored ARIMA model for each product as they exhibit different patterns.
+
+Then when I showed it to my boss, he told me its not optimal to do this, and its better to do one model for all of them. We discussed that, and I'm not convinced.  I think its intuitive that each product needs their own model. 
+
+What do you think guys, and is there any credible resource (a paper or a good article) that discusses this?",https://www.reddit.com/r/datascience/comments/fp9i8i/different_arima_models_for_forecasting_sales_of/,57,1,1585219945
+73,How to deploy a Bokeh app on Heroku,[removed],https://www.reddit.com/r/datascience/comments/fp9vsq/how_to_deploy_a_bokeh_app_on_heroku/,0,1,1585221869
+74,Another Covid-19 cases dashboard with a tab to compare cases across countries,,https://www.reddit.com/r/datascience/comments/fpa006/another_covid19_cases_dashboard_with_a_tab_to/,15,1,1585222481
+75,Jupyter Notebooks on a machine with a GPU - why can't I get this work?,"Hi all,
+
+&amp;#x200B;
+
+I'm hoping someone can point out what I'm doing wrong. I have searched Google and found a myriad of tutorials that are, for all intents and purposes, identical. There's a few subtle differences but nothing special. So I've followed these tutorials and tried a few things myself but I still get the same result, best summarised with:
+
+&amp;#x200B;
+
+    steve@gpu:~$ docker run --gpus all nvidia/cuda:9.0-base nvidia-smi
+    Thu Mar 26 11:37:34 2020       
+    +-----------------------------------------------------------------------------+
+    | NVIDIA-SMI 435.21       Driver Version: 435.21       CUDA Version: 10.1     |
+    |-------------------------------+----------------------+----------------------+
+    | GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+    | Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+    |===============================+======================+======================|
+    |   0  Quadro K4000        Off  | 00000000:01:00.0 Off |                  N/A |
+    | 30%   28C    P0    29W /  87W |      0MiB /  3018MiB |      0%      Default |
+    +-------------------------------+----------------------+----------------------+
+                                                                                   
+    +-----------------------------------------------------------------------------+
+    | Processes:                                                       GPU Memory |
+    |  GPU       PID   Type   Process name                             Usage      |
+    |=============================================================================|
+    |  No running processes found                                                 |
+    +-----------------------------------------------------------------------------+
+
+Docker thinks there's a GPU but
+
+&amp;#x200B;
+
+    import tensorflow as tf
+    print('tensorflow version',tf.__version__)
+    print(""Num GPUs Available: "", len(tf.config.list_physical_devices('GPU')))
+    print(tf.test.is_built_with_cuda())
+    print(tf.test.is_gpu_available(
+        cuda_only=False,
+        min_cuda_compute_capability=None
+    ))
+    
+    tensorflow version 2.1.0
+    Num GPUs Available:  0
+    True
+    False
+
+... Jupyter can't see it.   
+
+
+    steve@gpu:~$ cat /etc/docker/daemon.json
+    {
+        ""default-runtime"": ""nvidia"",
+        ""runtimes"": {
+            ""nvidia"": {
+                ""path"": ""nvidia-container-runtime"",
+                ""runtimeArgs"": []
+            }
+        }
+    }
+    
+
+When I launch the various containers I've tried I don't see anything that helps me diagnose a problem - rather I see the opposite. For example
+
+    tensorflow/tensorflow:latest-gpu-py3-jupyter
+
+Shows this in the logs
+
+    2020-03-26 11:34:12.600560: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties: 
+    pciBusID: 0000:01:00.0 name: Quadro K4000 computeCapability: 3.0
+
+But this is the same container as the one above that returns 0. I've also tried things like 
+
+&amp;#x200B;
+
+[https://github.com/iot-salzburg/gpu-jupyter.git](https://github.com/iot-salzburg/gpu-jupyter.git)
+
+&amp;#x200B;
+
+Which does the same thing - installs without incident, says it's found a GPU and then the Jupyter notebook can't see it.
+
+&amp;#x200B;
+
+Can anyone see what I'm missing or suggest somewhere better to post this? I know it's going to be something obvious and I'm going to feel a bit silly but I've been playing with this on and off since the UK entered its lockdown and haven't made any progress.
+
+&amp;#x200B;
+
+Thanks in advance.",https://www.reddit.com/r/datascience/comments/fpacxt/jupyter_notebooks_on_a_machine_with_a_gpu_why/,6,1,1585224268
+76,What happened to the ‘Data Framed’ podcast?,"There’s not many data science podcasts out there. Everyone raved about Data Camp’s Data Framed podcast but they haven’t released an episode in over a year 
+
+Data Camp is still promoting it tho. Are there any data science podcasts that are actually current and high quality?",https://www.reddit.com/r/datascience/comments/fpazwm/what_happened_to_the_data_framed_podcast/,1,1,1585227218
+77,[Career] Interview with a Director of Customer Analytics Pawel Godula,"Hi everyone!  
+
+
+A few weeks ago, I had a chance to interview an amazing person and a total rockstar when it comes to modeling and understanding customer data - Pawel Godula.  
+
+
+We talked about:  
+\&gt; How to build models that are robust to change  
+\&gt; How to become a leader in a technical organization  
+\&gt; How to focus on the “right” questions  
+\&gt; Why model ensembling can be more important in real-life than in competitions  
+…and a lot more!  
+
+
+I think there is a bunch of useful stuff when it comes to career progression. 
+
+Here you can check out the raw video of the interview or read it for yourself. 
+
+[Interview link](https://neptune.ai/blog/interview-with-head-of-ai-pawel-godula?utm_source=reddit&amp;utm_medium=post&amp;utm_campaign=blog-interview-with-head-of-ai-pawel-godula)  
+
+
+![video](m71tpjbkt0p41)",https://www.reddit.com/r/datascience/comments/fpbpcx/career_interview_with_a_director_of_customer/,0,1,1585230193
+78,Reporting COVID-19 cases as a proportion of the tested population?,[removed],https://www.reddit.com/r/datascience/comments/fpc0fk/reporting_covid19_cases_as_a_proportion_of_the/,0,1,1585231410
+79,"Instagram for everything AI-related, login with Github to join the AI community",,https://www.reddit.com/r/datascience/comments/fpc6hr/instagram_for_everything_airelated_login_with/,0,1,1585232024
+80,Data Scientists are just glorified analysts (and why Research Scientist is the new Data Scientist),"Data Scientist here in a mid-sized company in Bay Area tech. After working in this industry for few years, the fact that Data Scientist in no longer a true Data Scientist position is the only natural conclusion I can come up with. There might be few here and there in reputable companies who get to do and productionize complex modeling solutions (especially if you have a PhD), but the overall trend is that most ""Data Scientists"" without PhDs have become SQL monkeys who don't even get to do something as simple as A/B testing. This is like if front-end web developers were rebranded as software engineers.
+
+I mean it's even public knowledge too:  Lyft publicly stated how they rebranded the titles from analyst to scientist and data scientist to research scientist. This was  just to compete with other tech companies for talent that want the ""scientist"" in their title. [https://medium.com/@chamandy/whats-in-a-name-ce42f419d16c](https://medium.com/@chamandy/whats-in-a-name-ce42f419d16c). I was told by a buddy in FANG that Facebook is the one that started this trend. 
+
+How did this happen and what's the consequence? I don't know the precise origin, but I know that today what's driving this movement is the huge rush new grads with ""data science"" degrees, or perhaps waves of career changers from bootcamps who also want to find their gold.  
+
+What's the consequence? I think the consequence is that we all suffer from the rebranding, especially in terms of career development. Those who have been doing true Data Science work (not just SQL all day for metrics tracking) will have to shift expectations and titles in order to preserve what they already have. Being stuck on menial tasks that don't impact business bottom line will make the job susceptible to layoffs far more than those that are in the front lines of business/product impact. It also means lack of promotion and career development, since those who do get those have proven impact on business. 
+
+Yes, I have become jaded and pessimistic about the Data Science world in the Bay, especially not having a PhD myself that limits me from pursuing Research Scientists positions...",https://www.reddit.com/r/datascience/comments/fpcltw/data_scientists_are_just_glorified_analysts_and/,180,1,1585233619
+81,Timeseries source per country and US state of coronavirus cases and deaths?,I’m looking for a place to download csv files (or similar) of per-date case and death counts per country and US state.  JHU’s site doesn’t appear to have easy access to much past data (maybe I’ve missed an api link?) and derivative sites I’ve found are only sporadically updated.,https://www.reddit.com/r/datascience/comments/fpclv5/timeseries_source_per_country_and_us_state_of/,2,1,1585233622
+82,Mahalanobis Distance out of two other Mahalanobis Distances,"I'm not sure if this is the appropriate sub for this, but it seemed like the best one since Mahalanobis distance seems to be used for Machine Learning as well. This is for a work in Management though, so not Data Science per se, more Data Science adjacent I suppose.
+
+After getting my head around the Mahalanobis distance, I found statistical significance in the variables I am using calculated with it. There is a pretty established author that measures the same thing I am trying to, and they publish their Mahalanobis Distances, but not their component variables, being that they use different variables to measure this construct. Their variables, and process of recovery is so obscure that it is unlikely that I'd be able to access them myself.
+
+So, to get to the point as quickly as possible, I've was wondering if it is even worth it to look into if it is theoretically sound to aggregate two Mahalanobis Distances with the Mahalanobis Distance, for the same subjects. 
+
+Or would it be better for me to use those my variables and include that distance as another variable. In the same vein, should some ponderation be made regarding how many variables each Mahalanobis distance computes?
+
+I'm still looking at understanding better how Mahalanobis works, but if you guys could offer some input that would be great!",https://www.reddit.com/r/datascience/comments/fpctf3/mahalanobis_distance_out_of_two_other_mahalanobis/,2,1,1585234424
+83,"Our favourite ex-Facebook, ex-Google MILLIONAIRE tech lead is saving the world.",,https://www.reddit.com/r/datascience/comments/fpdnnu/our_favourite_exfacebook_exgoogle_millionaire/,1,1,1585239233
+84,Is it feasible to become a data analyst from a business major with minimal programming?,[removed],https://www.reddit.com/r/datascience/comments/fpdtxf/is_it_feasible_to_become_a_data_analyst_from_a/,0,1,1585240259
+85,Forecasting covid19 outcome per country,[removed],https://www.reddit.com/r/datascience/comments/fpfkgv/forecasting_covid19_outcome_per_country/,3,2,1585245338
+86,ACF and PACF plots - which model should I go with?,[deleted],https://www.reddit.com/r/datascience/comments/fpg548/acf_and_pacf_plots_which_model_should_i_go_with/,11,2,1585246978
+87,University student seeking guidance on Capstone Project. Wiling to pay $$$,[removed],https://www.reddit.com/r/datascience/comments/fpgz9z/university_student_seeking_guidance_on_capstone/,1,1,1585249410
+88,[Request] Advice on learning Python . So many options make it confusing,"My objective is to learn Python and use it for machine learning and data science as an important but secondary tool in my career. I'm proficient in R and Stata but almost no previous knowledge in Python. I've checked in [Codecademy](https://www.codecademy.com/catalog/language/python) and [edX](https://www.edx.org/course?search_query=python) but both of them have thematic courses (e.g. Analyzing, Visualizing data with Python) rather than teaching the language comprehensively which I don't love because it limits my options for the future. My question for you guys is if you know of a program that would help me to learn Python from basics to an intermediate level, that are free or for a very small payment.",https://www.reddit.com/r/datascience/comments/fph3vn/request_advice_on_learning_python_so_many_options/,6,2,1585249780
+89,You need a solid foundation for your data before being effective with AI and ML,"Credit to Monica Rogati for the image
+
+https://preview.redd.it/uqobmhswk2p41.png?width=1436&amp;format=png&amp;auto=webp&amp;s=bd7fd87061d2ca55c333e76892808bd13d899f6f",https://www.reddit.com/r/datascience/comments/fpi3xx/you_need_a_solid_foundation_for_your_data_before/,1,2,1585252749
+90,Udacity is offering access to their courses for free due to COVID-19,"I myself am fairly new to data science and found this to be rather exciting amidst the current crisis. I'm not affiliated whatsoever with udacity and have limited experience with them due to the paywall they normally have for their courses. Hope this information is helpful
+
+[Udacity courses](https://www.udacity.com/courses/all)",https://www.reddit.com/r/datascience/comments/fpi8qf/udacity_is_offering_access_to_their_courses_for/,128,4,1585253148
+91,A Corona Dashboard where you can compare progress between counties,"To compare counties hold the Windows key (Command for Mac) and select the countries you want to compare  
+[https://public.kelp.app/id/NqCOCDB4TPm.Md-fAoKqkyg](https://public.kelp.app/id/NqCOCDB4TPm.Md-fAoKqkyg)
+
+https://preview.redd.it/m8olysduo2p41.png?width=1347&amp;format=png&amp;auto=webp&amp;s=791846268d22a4e62aac2214d0a137df2dfffc79",https://www.reddit.com/r/datascience/comments/fpihzg/a_corona_dashboard_where_you_can_compare_progress/,7,3,1585253914
+92,What education in college would be beneficial to a data scientist?,[removed],https://www.reddit.com/r/datascience/comments/fpirce/what_education_in_college_would_be_beneficial_to/,4,1,1585254667
+93,Predicting Protein Structures Using Deep Learning,,https://www.reddit.com/r/datascience/comments/fpiudj/predicting_protein_structures_using_deep_learning/,0,3,1585254916
+94,FaceCTRL: control your media player with your face,,https://www.reddit.com/r/datascience/comments/fpjip6/facectrl_control_your_media_player_with_your_face/,0,1,1585256965
+95,Learning Alteryx,[removed],https://www.reddit.com/r/datascience/comments/fpk4lg/learning_alteryx/,2,1,1585258725
+96,Best practices of in-platform AI/ML,,https://www.reddit.com/r/datascience/comments/fpkdui/best_practices_of_inplatform_aiml/,0,1,1585259492
+97,"People with careers on data science, what degree program did you take back in college?",[removed],https://www.reddit.com/r/datascience/comments/fpkiqn/people_with_careers_on_data_science_what_degree/,2,1,1585259903
+98,Illness reports by zip code,"Hi, does anyone know where a good dataset of pre CV-19 illness records exist by zip code, city, or county? I'd like to find trends in the historical data to compare with things as they evolve now.",https://www.reddit.com/r/datascience/comments/fpkq83/illness_reports_by_zip_code/,1,1,1585260513
+99,What are good Data Science 'screening questions' that aren't pop quiz questions.,What would you have HR ask a candidate on an initial screen?,https://www.reddit.com/r/datascience/comments/fpljxi/what_are_good_data_science_screening_questions/,16,1,1585263229

@@ -1,0 +1,303 @@
+,title,selftext,full_link,num_comments,score,retrieved_on
+0,Data process - possible issues/negatives/weaknessess,"Hello, I am searching for a literature/resources about data analysis process. I need information about what issues can happen in the process (for example lack of programming skills, lack of human capital, lack of documentation etc.) or what factors have the biggest impact on data analysis process.
+
+I would really appreciate If you could give me some tips on books (preferably the ones that could be downloaded) or trustworthy link which could include such information.",https://www.reddit.com/r/datascience/comments/fk81it/data_process_possible_issuesnegativesweaknessess/,1,1,1584462053
+1,Covid data by county?,"Does anyone know where I can find confirmed case data that includes the county (and preferably lat/long)?
+
+I was using JHU github, but they recently changed from reporting by county to reporting by state",https://www.reddit.com/r/datascience/comments/fk9idp/covid_data_by_county/,4,1,1584467196
+2,Help with my career.,"I am currently a graduate student earning a Masters in Library and Information Science with an additional certification in Information Management. I will have taken an information technology class, database concepts, data analytics, computer programming, information visualization, several management classes, a course on scripting languages, and a course on big data management. I have learned SQL, Microsoft Access, R, Tableau and Python. Right now, I am looking towards becoming a data analyst, but I have also been considering database administration. I will be completing a practicum in whichever field I choose, but I'm not sure which direction to go. What are the differences between these careers? Could I begin in one and move to the other as I gain experience? Thanks!",https://www.reddit.com/r/datascience/comments/fka2pg/help_with_my_career/,1,1,1584469071
+3,White House &amp; Partners Launch COVID-19 AI Open Research Dataset Challenge on Kaggle,"In response to the COVID-19 pandemic, the White House on Monday joined a number of research groups to announce the release of the COVID-19 Open Research Dataset (CORD-19) of scholarly literature about COVID-19, SARS-CoV-2, and the Coronavirus group. The release came with an urgent call to action to the world’s AI experts to “develop new text and data mining techniques that can help the science community answer high-priority scientific questions related to COVID-19.”
+
+[Read more](https://medium.com/syncedreview/white-house-partners-launch-covid-19-ai-open-research-dataset-challenge-on-kaggle-4c5b936faab1)",https://www.reddit.com/r/datascience/comments/fkb2nh/white_house_partners_launch_covid19_ai_open/,41,1,1584472468
+4,Real estate data w/ Python,,https://www.reddit.com/r/datascience/comments/fkb3w5/real_estate_data_w_python/,0,1,1584472588
+5,Validating models for individual behavior using aggregate results,"Hi - is there a name for the process of building/validating a model of individual behavior when you only have aggregate data available for the response variable (but do have individual-level data for the predictor variables)? I've tried googling various things and can't get anything to pop up. I'm hoping to find a book or two on the subject.
+
+My particular use-case is: I have lots of variables for voters - age, sex, zip code, etc., I would like to predict if they will vote Democrat or Republican but I only have precinct-level results (precincts vary in size from 2 registered voters to 2,880, but most are around 1,000; I have 8900 precincts). In my mind, a good model would cause my predictions for individuals to create similar results to the actual precinct results when aggregated.
+
+A second, related question - what is generally considered best practice when using census or similar aggregated data as a predictor variable - for instance, if I have the median income for a census block is it ok to simply assign this to an individual living in that census block? This seems a little simplistic, so I was wondering if there are any good resources, particularly books on the subject. 
+
+Thank you!",https://www.reddit.com/r/datascience/comments/fkc07b/validating_models_for_individual_behavior_using/,3,1,1584475784
+6,Rookie Data Science Mistake Invalidates a Dozen Medical Studies,,https://www.reddit.com/r/datascience/comments/fkcts0/rookie_data_science_mistake_invalidates_a_dozen/,2,1,1584478731
+7,Supervised Learning - Linear Regression (Python Series),,https://www.reddit.com/r/datascience/comments/fkcugl/supervised_learning_linear_regression_python/,2,1,1584478799
+8,Shinyapp for COVID-19 cases in each U.S. State,,https://www.reddit.com/r/datascience/comments/fkcy2a/shinyapp_for_covid19_cases_in_each_us_state/,13,1,1584479153
+9,CoVid-19 open source to try to predict new cases by demographics / real-time syptoms,[removed],https://www.reddit.com/r/datascience/comments/fke6q7/covid19_open_source_to_try_to_predict_new_cases/,2,1,1584483665
+10,Doubt with A/B testing,[removed],https://www.reddit.com/r/datascience/comments/fkea8z/doubt_with_ab_testing/,2,0,1584484025
+11,Discussion Question: Did Covid-19 Break your Model(s) and why?,"ML/AI models are, in general, susceptible to breaking when a significant regime shift occurs and training inputs are no longer representative of production inputs.
+
+Has your model broken (taken on unacceptable prediction error) with the societal and cultural impacts of Covid-19?
+
+My models in hydrology are as far as I know unaffected, but to those who work in say finance or retail for example,  how have your models fared against Covid-19? Let's start a discussion.",https://www.reddit.com/r/datascience/comments/fkecmh/discussion_question_did_covid19_break_your_models/,8,1,1584484259
+12,Given the fear with the Coronavirus I decided to assess its criticality using data science and answer whether we need to worry or not,[here it is ](https://youtu.be/3Ewqqp2p0BI),https://www.reddit.com/r/datascience/comments/fkf202/given_the_fear_with_the_coronavirus_i_decided_to/,0,1,1584486828
+13,Econometrics question,[removed],https://www.reddit.com/r/datascience/comments/fkfe2e/econometrics_question/,2,1,1584488041
+14,Interview Request Data Analysts / Scientists etc.,[removed],https://www.reddit.com/r/datascience/comments/fkftej/interview_request_data_analysts_scientists_etc/,2,1,1584489575
+15,K-Means Clustering: Unsupervised Learning Applied to Magic: The Gathering,,https://www.reddit.com/r/datascience/comments/fkfxj1/kmeans_clustering_unsupervised_learning_applied/,0,1,1584489993
+16,"A fiasco in the making? As the coronavirus pandemic takes hold, we are making decisions without reliable data",,https://www.reddit.com/r/datascience/comments/fkiyj1/a_fiasco_in_the_making_as_the_coronavirus/,2,1,1584502285
+17,Any undergrads feeling even more motivated to become a Data Scientist due to Covid-19?,"I switched to Applied Math last year after being informed about Data Science, and have been at it every since. Even before the Covid-19 I have been motivated to become a Data Scientist, but now after seeing my place of employment shut town weeks before my promised promotion, and the eventual lay offs that will ensure, I absolutely see now that my only option is to go full throttle. Right now my only option to make money is Uber Eats, whereas others may work remotely.
+
+Most importantly, I am thrilled by the Kaggle Covid-19 dataset. The idea that one day I could pivot from corporate work to life saving public research is absolutely awesome. Data Scientists can actually “suit up” and save the day!",https://www.reddit.com/r/datascience/comments/fkj542/any_undergrads_feeling_even_more_motivated_to/,3,1,1584503091
+18,Python For Java For Data Science and Developers,,https://www.reddit.com/r/datascience/comments/fkjh60/python_for_java_for_data_science_and_developers/,0,1,1584504629
+19,Data Science Masters Advice?,[removed],https://www.reddit.com/r/datascience/comments/fkll9r/data_science_masters_advice/,0,1,1584516050
+20,Supervised Learning - Linear Regression (Python Series),,https://www.reddit.com/r/datascience/comments/fkm1hw/supervised_learning_linear_regression_python/,1,1,1584518742
+21,Hate speech based vulnerable community identification.,[removed],https://www.reddit.com/r/datascience/comments/fkmf3f/hate_speech_based_vulnerable_community/,0,1,1584521145
+22,DATA SCIENCE FOR PRICE OPTIMIZATION,[removed],https://www.reddit.com/r/datascience/comments/fkmrn2/data_science_for_price_optimization/,0,1,1584523332
+23,The Importance of Machine Learning in the 21st Century,,https://www.reddit.com/r/datascience/comments/fkn29r/the_importance_of_machine_learning_in_the_21st/,0,1,1584525155
+24,RPA tools for automatic login into a website and extract data in an excel file?,"I am looking for an RPA tool that automatically logins into the tableau server and copies the new data uploaded there and pastes it into an existing excel file or google sheets.
+
+Any suggestions??",https://www.reddit.com/r/datascience/comments/fkn5xl/rpa_tools_for_automatic_login_into_a_website_and/,2,1,1584525752
+25,Data Science Career Path,,https://www.reddit.com/r/datascience/comments/fknl2a/data_science_career_path/,0,1,1584528294
+26,Webinar on Data Science and Artificial Intelligence as your career goal,,https://www.reddit.com/r/datascience/comments/fkot8d/webinar_on_data_science_and_artificial/,0,1,1584534896
+27,What is your work environment like?,"So I’m still trying to figure out what it is I want to do in life &amp; the data science is one of my heavily considered options. I’ve been curious recently, what are your work environments like? Mainly a desk job? What are your hours? People you work with? Computer use all day? Repetitive tasks or varied projects? Etc. 
+If you work from home because of Coronavirus please give answers of what things were like before this happened.",https://www.reddit.com/r/datascience/comments/fkpexq/what_is_your_work_environment_like/,1,1,1584537664
+28,No-code data science early access,"Hey folks! I hope everyone is well?
+
+I work for a company who has developed a no-code data science platform. We're opening it up for early access soon, but I just wanted to gauge interest first so I'm putting it out there. 
+
+I know that the majority of people on this sub are professionals, well-versed in data science, so it might not apply to everyone. But in case there's anyone reading who wanted to get started with analytics and data science then please let me know. 
+
+That being said, it's not only for beginners. You might find something in the tool that you find valuable, saving you time or effort better spent elsewhere. Who knows, we're here for feedback from beginners and pros alike! 
+
+So, if anyone is interested, please drop a comment below and I'll PM you with an early access sign-up link. If you want to know more, just ask. We're all interested to have users test it out, provide feedback and tell us what's missing or what we're doing well. Community feedback is important! 
+
+Thanks, stay safe!",https://www.reddit.com/r/datascience/comments/fkpmna/nocode_data_science_early_access/,1,1,1584538635
+29,"QlazDOE software, example of single-factor DOE with multiple treatments, one-way ANOVA and linear regression","Check this article demonstrating QLazDOE software managing single-factor experiment with multiple treatments, using one-way ANOVA and regression for analysis of results and driving conclusions.
+
+[https://matasoft.hr/QTrendControl/index.php/qdoe-design-of-experiments-software/doe-case-studies/25-plasma-etching-experiment-example-of-single-factor-experiment-fixed-effects-model-4-replicates-one-way-anova](https://matasoft.hr/QTrendControl/index.php/qdoe-design-of-experiments-software/doe-case-studies/25-plasma-etching-experiment-example-of-single-factor-experiment-fixed-effects-model-4-replicates-one-way-anova)
+
+Matasoft is offering free 6-months licenses for individuals willing to participate in beta testing of the new software product called ""QLazDOE"", a program for designing and analyzing results of Designed Experiments (i.e. Design of Experiments, DOE). If you are interested, claim your 6-months free license for QLazDOE software, mailing to the following contact: [sales@matasoft.hr](mailto:sales@matasoft.hr)
+
+QLazDOE is a is a statistical software for designing and analyzing results of Designed Experiments (i.e. Design of Experiments, DOE). It features DOE projects and solutions management, generator of designed experiments, factors and levels definition and integrated LazStats statistical software for statistical analysis of experimental results. QLazDOE also contains rich collection of various statistical tables.
+
+https://preview.redd.it/gbu29kjqrfn41.png?width=1912&amp;format=png&amp;auto=webp&amp;s=4c19a8285c889322347309a297e7d60230146cf6
+
+\#QLazDOE #DOE #Design of Experiments #design-of-experiments #Designed Experiments",https://www.reddit.com/r/datascience/comments/fkptc2/qlazdoe_software_example_of_singlefactor_doe_with/,1,1,1584539453
+30,An r/datascience equivalent that's female-heavy,"Just wondering if theres any other subs or communities around data Science that are a little more female dominated. not that r/datascience is necessarily bad or unhelpful, its just that its more refreshing being in a community that can relate to you a lot more.
+
+would love to hear from the ladies on here!",https://www.reddit.com/r/datascience/comments/fkq1ek/an_rdatascience_equivalent_thats_femaleheavy/,34,1,1584540409
+31,Interesting article/walkthrough on using DS to analyze the COVID-19,,https://www.reddit.com/r/datascience/comments/fkqsia/interesting_articlewalkthrough_on_using_ds_to/,0,1,1584543389
+32,I wrote a python package to make the Cord-19 challenge easier!,,https://www.reddit.com/r/datascience/comments/fkqtb1/i_wrote_a_python_package_to_make_the_cord19/,11,1,1584543468
+33,Corona Virus Search Terms,"Working on a project (for my job, not another pop-science medium post) where I'm trying to isolate records with free text that relates to covid-19. 
+
+I started to put the following list together, and am interested if there are any other isolating terms. Here's what I have so far:
+
+* cv
+* virus
+* corona
+* covid
+* outbreak
+* pandemic
+* endemic
+* pandemic
+* epidemic
+* shutdown
+* quarantine
+* social dist
+* covd
+
+&amp;#x200B;
+
+Any other big ones?",https://www.reddit.com/r/datascience/comments/fkrezm/corona_virus_search_terms/,6,1,1584545679
+34,How can you find out if it’s possible to access your shopping data through an API via your online shopping account?,Apologies if this is the wrong place to ask!,https://www.reddit.com/r/datascience/comments/fkrnid/how_can_you_find_out_if_its_possible_to_access/,0,1,1584546536
+35,Working from raw source data from a filepath containing spaces using make and Makefiles,"I have a repository that uses python scripts and a Makefile. I want to have a setup procedure that
+allows them to easily set up an environment and copy in the necessary data files from our server.
+
+The problem with including the source data files in the Makefile is that the company server uses 
+spaces in the drive name, which make doesn't like very much, so I can list those files as dependencies
+for the target output file.
+
+My current Makefile basically does only the following:
+
+```
+.PHONY : all
+all : output.csv
+
+.PHONY : copy_data_to_local_folder
+copy_data_to_local_folder :
+	python copyfile.py ""V:\\Server Path\\With Spaces\\Inputs 1.csv"" local/inputs1.csv
+	python copyfile.py ""V:\\Server Path\\With Spaces\\Inputs 2.csv"" local/inputs2.csv
+
+output.csv : combine_data.R local/inputs1.csv local/inputs2.csv
+	Rscript $^ $@
+```
+
+The `copy_data_to_local_folder` part is just to get the data to the local directory, but it isn't included 
+in the DAG leading to the production of `output.csv` (i.e. `all : output.csv copy_data_to_local_folder`) or else
+the target would need to run everytime.
+
+My solution ideas are the following, but I'm not sure what's best practice:
+
+1. **Use a different make tool.** I could use `Luigi` in Python or `Drake` in R, but I would prefer to keep 
+the tool somewhat more generalized.
+
+2. **Run a setup script to copy in files.** I assume there would be a way to run the file copying scripts
+as part of the environment setup, but I am unfamiliar with how to do this.
+
+I am not sure about the best way to do this. I want to be able to share the code with a co-worker and have them
+be able to get up and running on their system without too much messing around to configure. Is there a best
+practice for this situation?",https://www.reddit.com/r/datascience/comments/fksdx3/working_from_raw_source_data_from_a_filepath/,0,1,1584549161
+36,Made my own Dashboard with Plotly and Dash,[removed],https://www.reddit.com/r/datascience/comments/fkt6iw/made_my_own_dashboard_with_plotly_and_dash/,2,1,1584552069
+37,Do they want a data scientist...or yes man?,,https://www.reddit.com/r/datascience/comments/fku99l/do_they_want_a_data_scientistor_yes_man/,0,1,1584555779
+38,Can a Data Scientist Replace a DJ?,[removed],https://www.reddit.com/r/datascience/comments/fkuas8/can_a_data_scientist_replace_a_dj/,2,1,1584555946
+39,My quick-start COVID-19 plotting notebook - feel free to copy &amp; modify,,https://www.reddit.com/r/datascience/comments/fkudxs/my_quickstart_covid19_plotting_notebook_feel_free/,4,1,1584556268
+40,"The brown institute is offering two micro-grants for projects that help inform the public about #COVID19. Each is $5,000, and is for journalists, technologists, health researchers, data and social scientists —any and all communities involved in covering the virus.",,https://www.reddit.com/r/datascience/comments/fkuemi/the_brown_institute_is_offering_two_microgrants/,2,1,1584556335
+41,Digital Marketing Analytics,"Wanted to know the best resources (online/books) to learn more about digital marketing and online advertising, along with applications of analytics in this domain.
+
+Thanks!",https://www.reddit.com/r/datascience/comments/fkuukl/digital_marketing_analytics/,2,1,1584557944
+42,Internet traffic data,[removed],https://www.reddit.com/r/datascience/comments/fkw4eo/internet_traffic_data/,0,1,1584562685
+43,Beer consumption mesaured in liters per country from 1890,,https://www.reddit.com/r/datascience/comments/fkwe3t/beer_consumption_mesaured_in_liters_per_country/,2,1,1584563717
+44,Master list of recent articles and datasets related to data science and Coronavirus,[removed],https://www.reddit.com/r/datascience/comments/fkwozz/master_list_of_recent_articles_and_datasets/,4,1,1584564998
+45,Crash Course: Machine Learning for PMs,,https://www.reddit.com/r/datascience/comments/fkwqb8/crash_course_machine_learning_for_pms/,2,1,1584565138
+46,$250 Savings on DataCamp Premium Yearly Subscription,,https://www.reddit.com/r/datascience/comments/fkx2cl/250_savings_on_datacamp_premium_yearly/,19,0,1584566392
+47,Resources recommendations for Covid-19 quarantine,[removed],https://www.reddit.com/r/datascience/comments/fkxzfo/resources_recommendations_for_covid19_quarantine/,0,1,1584569908
+48,Help with my assignment!!!,[removed],https://www.reddit.com/r/datascience/comments/fl19hv/help_with_my_assignment/,2,1,1584582410
+49,FREE Virtual Data Science &amp; Data Analytics Summit - Omnisci Virtual Summit 2020,[removed],https://www.reddit.com/r/datascience/comments/fl1gkl/free_virtual_data_science_data_analytics_summit/,2,1,1584583155
+50,Introducing MIDAS: A New Baseline for Anomaly Detection in Graphs,,https://www.reddit.com/r/datascience/comments/fl20af/introducing_midas_a_new_baseline_for_anomaly/,19,4,1584585243
+51,COVID-19 Data Hub - Daily updated data sets and visualization by Tableau,"I just received an email from Tableau sharing their Covid-19 data hub. It contains their dashboard, but more importantly, they are making their daily updated data sets freely available. I am not affiliated with them, but thought it was worth sharing.
+
+[https://www.tableau.com/covid-19-coronavirus-data-resources](https://www.tableau.com/covid-19-coronavirus-data-resources)",https://www.reddit.com/r/datascience/comments/fl259m/covid19_data_hub_daily_updated_data_sets_and/,6,1,1584585778
+52,[P] Machine Learning for Coronavirus Dataset List and Literature Review,"Seeing as there are many new datasets and papers beginning to come up about coronavirus. I created a [Github repository](https://github.com/isaacmg/ai-virus) to keep track of all coronavirus related research. Additionally, I wrote an [article](https://towardsdatascience.com/machine-learning-methods-to-aid-in-coronavirus-response-70df8bfc7861) summarizing recent literature",https://www.reddit.com/r/datascience/comments/fl2jlx/p_machine_learning_for_coronavirus_dataset_list/,3,1,1584587219
+53,Monthly Subscription for Articles on Medium,[removed],https://www.reddit.com/r/datascience/comments/fl2sgt/monthly_subscription_for_articles_on_medium/,2,1,1584588099
+54,How data scientist is important?,share me your opinions,https://www.reddit.com/r/datascience/comments/fl3co0/how_data_scientist_is_important/,1,0,1584590150
+55,Are most data science jobs just desk jobs?,^ as the title says,https://www.reddit.com/r/datascience/comments/fl43k4/are_most_data_science_jobs_just_desk_jobs/,8,1,1584593035
+56,Wanting to pursue a Data Science Career,"Hey all! I'm formerly a marketing and finance major (Winter, 2016) who has loved data, and the message behind it ever since I took a marketing research course and began to learn more and more about data science (which came to be after to combined affinity to learn computing language and work with data) and I'm not sure where to start. 
+
+What are some things you would tell an individual in his late 20's who wants to get into data science at this current juncture?
+
+&amp;#x200B;
+
+Thanks!",https://www.reddit.com/r/datascience/comments/fl4foh/wanting_to_pursue_a_data_science_career/,1,1,1584594734
+57,Natural Language Processing APIs for Python,,https://www.reddit.com/r/datascience/comments/fl63qt/natural_language_processing_apis_for_python/,1,1,1584603645
+58,Which one would be better between Computer science master or Statistics master to be a data scientist?,"Hi, I am currently majoring in computer science for Bachelor's degree. After finishing my Master degree, I want to start working as a data scientist. I have two options for Master's degree. One is Master of Computer Science and the other is Master of Statistics.
+
+I am somewhat skeptical to take CS master course because the curriculum my school provide seems like not much related to the data scientist. The data science course provided my school requires for students to take Concurrent Programming and Software Modeling, Database Management Systems, Advanced Operating Systems, Design and Analysis of Algorithms plus one statistics class between Multivariate Statistical Analysis, Linear Models and Regression Analysis. As you can see, the course does not match with current data science trend. It is too general. 
+
+On the other hand, the master course of Statistics require following classes to be taken:Principles of Statistical Inference, Multivariate Statistical Analysis, Linear Models and Regression Analysis, Statistical Computing, Categorical Data Analysis, Data Visualization and Graphical Tests and etc. 
+
+What do you think the better option for a preliminary data scientist to follow? 
+
+Thank you for your time.",https://www.reddit.com/r/datascience/comments/fl8l7o/which_one_would_be_better_between_computer/,1,1,1584617752
+59,Big Data Research Project,"Firstly, sorry if this is inappropriate for this subreddit, please remove this post if it is not allowed.
+
+I am a university researcher for IE University in Madrid and my research team is working on a paper that is investigating the use of Big Data in organizations. We need data science professionals to fill out a 25-question survey. All responses will be shown in an aggregated format with no identification of the company or individual involved. These responses will only be used for academic purposes.
+
+If there are any professional data scientists working on big data projects in this subreddit, please can you spare 5 minutes to fill out our survey? Please, only people with relevant work experience should respond, this is not for students or people who work in other fields.
+
+Thank-you in advance, the insights will be of great value in our work.
+
+[https://docs.google.com/forms/d/e/1FAIpQLSe4OGSoxCDZzuBcGPQusaqsEiZoXZXLDW7A3kLLjVdVp7fYQA/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSe4OGSoxCDZzuBcGPQusaqsEiZoXZXLDW7A3kLLjVdVp7fYQA/viewform?usp=sf_link)",https://www.reddit.com/r/datascience/comments/fl9gc4/big_data_research_project/,0,1,1584622005
+60,Webinar on Data Science and Artificial Intelligence as your career goal,,https://www.reddit.com/r/datascience/comments/fl9gr8/webinar_on_data_science_and_artificial/,0,1,1584622055
+61,"How do I become proficient in the data warehouse/engineer side of things, while currently being a data analyst?","I’ve come across a good number of ‘Data Analyst’ positions that require not only the analytics part in regards to data, but also building the infrastructure of the databases. Is there a basic level of proficiency I can get to that will allow me to at least know the foundations of the data engineering part? Is it as difficult as I think it is? Especially as someone who’d be self-learning this part. Anyone care to list some of the technical softwares that are needed? Starting from like the most basic of requirements to get started (say, in a small company/start up just to get their database warehouse started) 
+
+Thank you in advance~",https://www.reddit.com/r/datascience/comments/fl9y7e/how_do_i_become_proficient_in_the_data/,10,1,1584624199
+62,Free full-access Data Science courses through April 15 due to COVID-19,https://365datascience.com/pricing,https://www.reddit.com/r/datascience/comments/flal2i/free_fullaccess_data_science_courses_through/,26,1,1584626853
+63,How do I transition from data science to business analytics?,[removed],https://www.reddit.com/r/datascience/comments/flan81/how_do_i_transition_from_data_science_to_business/,0,1,1584627090
+64,Data Science for Beginners,"Hi! I'm a freshman political science student who wants to study data science since I think it would really be helpful for my field in the future. However, I do not have any background with this though I'm planning to take math electives in my undergrad.
+
+What books/online courses do you recommend? Also, what specific things should I study to be able to grasp the basics of data science? Thank you!",https://www.reddit.com/r/datascience/comments/flbsg2/data_science_for_beginners/,1,1,1584631425
+65,Does anyone have a viable method for forecasting out sales during COVID?," 
+
+My business is scrambling to find the best way to forecast sales to get a best/worst case scenario for the covid sales trends.
+
+Does anyone have a better methodology than just using the excel forecast method since the beginning of the spike, or using run rates?
+
+Really appreciate the help! Hope everyone is staying safe.",https://www.reddit.com/r/datascience/comments/flbsgq/does_anyone_have_a_viable_method_for_forecasting/,3,1,1584631427
+66,What do you need to improve?,"Most of the IT-Professionals are very successful with their career, but sometimes they are facing difficulty with another area of their lives.  
+What do you need to focus more on?",https://www.reddit.com/r/datascience/comments/flcgor/what_do_you_need_to_improve/,1,1,1584633858
+67,"Intermediate SQL Series going over Joins, Unions, Case Statements, Data Types and more - Hope it helps!","Hey everyone - I just created the first of my Intermediate SQL Series videos. I go over joins and some use cases on how to use them. I would love for you to check it out and give me any feedback on it. 
+
+I have almost all of them recorded already and will be uploading them each week. The topics include Joins, Unions, Case Statements, Updating/Deleting Data, Partition By, Data Types, Aliasing, Views, Having Clause, GetDate(), and Primary vs Foreign Key. 
+
+After that I will be doing an Advanced Series as well.
+
+I hope this is helpful! Please let me know what you think! 
+
+Link:
+https://youtu.be/9URM1_2S0ho",https://www.reddit.com/r/datascience/comments/flcxag/intermediate_sql_series_going_over_joins_unions/,4,1,1584635428
+68,Similar to Median Absolute Deviation,"Hello all!
+
+What do you call the algorithm that is similar to median absolute deviation, but instead of taking using the median as the location estimate of the data. You measure how far away the observations are from the typical distance between observations. In other words, the median of absolute distance between x\_i and x\_i+1?
+
+Does anyone use this? I found this paper describes how robust this method I'm describing is [https://web.archive.org/web/20101214105931/http://web.ipac.caltech.edu/staff/fmasci/home/statistics\_refs/BetterThanMAD.pdf](https://web.archive.org/web/20101214105931/http://web.ipac.caltech.edu/staff/fmasci/home/statistics_refs/BetterThanMAD.pdf) . However, the paper doesn't seem to give it an easily identifiable name. I'm wondering what it's called and whether anyone has used to identify anomalous series.
+
+Thank you!",https://www.reddit.com/r/datascience/comments/fldjoo/similar_to_median_absolute_deviation/,1,1,1584637567
+69,COVID-19 and job search,Sadly I guess I decided it was a good idea to graduate undergrad during a pandemic. I was already worried because I didn’t have any job offers now I’m very worried because I don’t wanna be unemployed for too long. I’m graduating with my bs in stats this may and so far I didn’t have much luck. How do I find a job in data science with a bs and especially during all of this going on. My gpa is not good so grad school isn’t an option right now. I have some internship experience as a data analyst and business analyst and I’m looking for jobs in the Chicago area and possibly the Bay Area,https://www.reddit.com/r/datascience/comments/fldsh2/covid19_and_job_search/,19,1,1584638416
+70,Good resource for correlation,"Hello, I feel like everywhere I look I find short articles about correlation but I don't feel like I have a deep understanding. Does anyone know a good resource?",https://www.reddit.com/r/datascience/comments/fldx1w/good_resource_for_correlation/,4,1,1584638846
+71,User-Level Prediction Based on Post History,"Im working on a deep learning project that aims to make a categorical prediction on a user-level based on their Reddit post history. So for example, if the label categories are {not_depressed, mild_depression, depressed, suicidal}, the chosen label has been assigned to a user based on the totality of their posts.
+
+Each row of my dataset is an individual post. Some users have up to 500 posts, some have as low as 10. If I concatenate the posts together based on user, the assigned label is accurate but the text sequence length is far too big (average 14k words after cleaning and removing a lot of words). If I don't concatenate but learn based on individual posts, the text sequences are an appropriate size (avg 30 words) but then the model thinks the label is assigned on a post level.
+
+Any tips?",https://www.reddit.com/r/datascience/comments/fle23m/userlevel_prediction_based_on_post_history/,5,1,1584639329
+72,CORD-19: The Data Science Response to COVID-19,,https://www.reddit.com/r/datascience/comments/flesox/cord19_the_data_science_response_to_covid19/,2,1,1584642072
+73,"""Holdout Set"" on Aggregated Data","I have a dataset similar to this:
+
+Age | Gender | Average Conversion Rate | Number of Records
+---|---|----|----
+18-25 | M | 0.04 | 292
+25-35 | F | 0.06 | 105
+
+
+and I want to predict conversion rate. My usual strategy of doing a train/test/validation split doesn't work well here because there are few ""rows"". Anyone have advice on how to approach this problem? I'm thinking LOOCV for model fitting although I'd have to use the whole dataset for feature engineering/EDA.",https://www.reddit.com/r/datascience/comments/flex80/holdout_set_on_aggregated_data/,7,1,1584642569
+74,Wrote an article on how recommender systems like those in Netflix are made (with Python code),,https://www.reddit.com/r/datascience/comments/flf8bt/wrote_an_article_on_how_recommender_systems_like/,1,1,1584643567
+75,I got into the top 24% on a Kaggle Challenge without writing a line of code!,[removed],https://www.reddit.com/r/datascience/comments/flfgxa/i_got_into_the_top_24_on_a_kaggle_challenge/,0,1,1584644350
+76,Do I have a chance?,[removed],https://www.reddit.com/r/datascience/comments/flfls9/do_i_have_a_chance/,0,1,1584644787
+77,"I want to work with spectral audio data for music information retrieval, what toolsets should I be using? Is MySQL a good tool for storing FTTs?",,https://www.reddit.com/r/datascience/comments/flgt69/i_want_to_work_with_spectral_audio_data_for_music/,0,1,1584648842
+78,I created a Corona Dashboard. Let me know what you guys think.,,https://www.reddit.com/r/datascience/comments/flguyt/i_created_a_corona_dashboard_let_me_know_what_you/,5,1,1584649015
+79,Thesis Topic Evaluation Metrics,"Hello my fellow friends, I am a master's student in Data Science. I am thinking about my thesis but I want to hear some advices from you.  I haven't talked with my superviser about this yet (due to Corona). Every thesis have their own problems and you are reading thesis from time to time and I believe you saw some kind of pattern or general mistakes that most thesis have. 
+
+What are those minor details that everyone miss or huge chunk of wrong ideas in their thesis?
+
+What are the must have's in a thesis?
+
+Are there some rough check list for simplicity?
+
+How do you decide whether a thesis is good or bad from a academic/ industrial data scientist perspective? 
+
+Do you have any more advice? 
+
+&amp;#x200B;
+
+Thanks for all responses, I will read all of them meticulously.",https://www.reddit.com/r/datascience/comments/flhye0/thesis_topic_evaluation_metrics/,0,1,1584652837
+80,"Admitted into MS in Data Science, looking for scholarships",[removed],https://www.reddit.com/r/datascience/comments/flic0m/admitted_into_ms_in_data_science_looking_for/,2,1,1584654245
+81,Waymo blog: Announcing Waymo’s Open Dataset Competitions,,https://www.reddit.com/r/datascience/comments/flieew/waymo_blog_announcing_waymos_open_dataset/,0,1,1584654495
+82,How can Data Science be Instrumental in Combating Corona Outbreak?,,https://www.reddit.com/r/datascience/comments/flivdn/how_can_data_science_be_instrumental_in_combating/,0,1,1584656190
+83,Structural Equation Modelling is fascinating. But can data only be used if on some sort of Likert scale?,,https://www.reddit.com/r/datascience/comments/flk097/structural_equation_modelling_is_fascinating_but/,1,1,1584660285
+84,CORD-19 Dataset exploration and indexing,,https://www.reddit.com/r/datascience/comments/flk2h5/cord19_dataset_exploration_and_indexing/,3,1,1584660514
+85,Johns Hopkins CSSE,"I was just playing around with this for fun, and figured maybe someone else would potentially find it useful:
+[Link to data](https://github.com/CSSEGISandData/COVID-19). There are 3 datasets: confirmed cases, deaths, and recovered. This is updated daily.
+
+
+The data I found had dates as individual columns, and I wanted to transform it so the dates were all in one column. There is without a doubt a much easier way to do this, but here is what I did if you want to use it: [PYTHON CODE](https://pastebin.com/0W2ZEk0h)
+
+
+Maybe the code sucks, but points for creativity, right? Lol",https://www.reddit.com/r/datascience/comments/flkeco/johns_hopkins_csse/,3,1,1584661674
+86,Starting my Data Science Journey,"Hello, I am a high school junior who is very passionate about Data Science and Machine Learning. Because of the COVID-19 outbreak and school closings, I have so much free time. Thus, I have decided to start my Data Science Journey.
+
+I have recently completed my first real-world data science project that can be viewed here: https://github.com/EOHFA-GOAT/world-happiness-analysis
+
+I am asking if anyone has advice or pathways to take for a beginner like me. Thank you!",https://www.reddit.com/r/datascience/comments/fllgp2/starting_my_data_science_journey/,6,1,1584665444
+87,Data Engineering with SQL Server Integration Services,[removed],https://www.reddit.com/r/datascience/comments/flmvxl/data_engineering_with_sql_server_integration/,1,1,1584670760
+88,"Novice Data Scientist, by Expert Front-End Developer (MERN)","I see all these brilliant minds posting here about their findings, and as a novice data scientist with under 1 year of analysis and NO medical data experience, I feel useless. 
+
+That said, if any of you have databases set up and want some way to visualize it and distribute it, I’d love to offer my help. I want to do *something* to help with this massive open-source research of the pandemic!",https://www.reddit.com/r/datascience/comments/flmzqf/novice_data_scientist_by_expert_frontend/,0,1,1584671177
+89,Data Science for COVID-19 (DS4C),[removed],https://www.reddit.com/r/datascience/comments/flna1c/data_science_for_covid19_ds4c/,0,1,1584672361
+90,Do Data Scientists use Google Colab/Jupyter notebooks or prefer using text editors like VScode?,,https://www.reddit.com/r/datascience/comments/flq9e1/do_data_scientists_use_google_colabjupyter/,1,1,1584686016
+91,Libraries/API to learn major libraries for DataScience in Python,[removed],https://www.reddit.com/r/datascience/comments/flqcd0/librariesapi_to_learn_major_libraries_for/,0,1,1584686471
+92,Need advice regarding on going tussle in Data Science department at office.,"Hi,
+
+I am working as Data Scientist for 2 years in a startup in Bangalore, including internship where most of my work had data cleaning and data wrangling profile. It has been 1.5 years working as one. Now, the current scenario due to funding and new clients has shifted towards more challenging projects. One of them is Super Resolution and OCR (Japanese, has very little literature to go through ) and Super Resolution for text images for English and Japanese (again , a challenging and subjective as per buisness problem). The thing is the management thinks that if a paper is published for super resolution it will work on our data too, plus the Data science manager is sort of ""yes sir"" guy and makes us work on simply hit and trial, as of two years one thing I am sure that Data Science is not just simply trying anything till we reach accuracy without going through in details. The learning curve has just gone down to trying tessarct, kraken etc and same goes for Super resolution, just feed the data and see it works or not. I want to tell the management that it is not worth and we need a better resource on ML and DL who can actually break it down and guide us in a more logical and systematic direction instead of just trying different paper with a dataset which is exactly opposite to ours and trying random things (frameworks, just any random paper published). Now, if I say it directly, it won't go down well with my Data Science manager and if I don't I will have to suffer doing it again and again or eventually fired because I am sure we are not progressing in any direction. What should I do?",https://www.reddit.com/r/datascience/comments/flqw28/need_advice_regarding_on_going_tussle_in_data/,5,1,1584689286
+93,Personal website?,"This might be a silly question, but I'm very curious as to how data scientists (assuming no background in Java or HTML/CSS)  build their personal websites. Do you use platforms like SquareSpace to get the template and the domain? 
+
+Or is there a popular, easy way of building your own website that I'm missing out on?
+
+Also, is there a particular style/conventions that data scientists tend to follow in building their website?",https://www.reddit.com/r/datascience/comments/fls6b6/personal_website/,17,1,1584696666
+94,This Machine Learning model predicts the future of Coronavirus (Covid-19),,https://www.reddit.com/r/datascience/comments/flszz0/this_machine_learning_model_predicts_the_future/,0,1,1584701286
+95,Data Science Career Path,[removed],https://www.reddit.com/r/datascience/comments/fltmlq/data_science_career_path/,0,1,1584704491
+96,What to do with Medical Transcript dataset?,"I have this MT Dataset, what can be done with such dataset, as a Data scientist, what questions can be asked regarding this dataset, what can be the yields, what to analyze, etc.
+
+So far I thought to make a classification on age, gender.
+
+To find the reasons why patients undergo, surgery, allergy tests, etc. what else can be done with it, any suggestions, please?
+
+Any suggestion is appreciated.",https://www.reddit.com/r/datascience/comments/fltsm9/what_to_do_with_medical_transcript_dataset/,1,1,1584705359
+97,Webinar on Data Science and Artificial Intelligence as your career goal,,https://www.reddit.com/r/datascience/comments/flufcp/webinar_on_data_science_and_artificial/,1,1,1584708365
+98,State of the art techniques to get the most important feautures in a feature set of medical data,"I am working on a breast cancer dataset, and I have a ton of variables in my disposal, what are the state of the art techniques to get the variables that are most significant",https://www.reddit.com/r/datascience/comments/flume7/state_of_the_art_techniques_to_get_the_most/,19,1,1584709238
+99,What should be the best order to learn most the data science topics?,Time is not a problem,https://www.reddit.com/r/datascience/comments/flvazo/what_should_be_the_best_order_to_learn_most_the/,4,1,1584712074
