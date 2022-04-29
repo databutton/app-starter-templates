@@ -19,7 +19,7 @@ cffi==1.15.0
 charset-normalizer==2.0.12
 click==7.1.2
 colorama==0.4.4
-databutton2==0.0.44
+databutton2
 debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
@@ -134,6 +134,6 @@ wsproto==1.1.0
 yaspin==2.1.0
 zipp==3.7.0
 
-pytorch
+torch
 transformers
 tqdm
