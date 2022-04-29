@@ -49,15 +49,15 @@ class BertClassifier(nn.Module):
         super(BertClassifier, self).__init__()
 
         self.bert = BertModel.from_pretrained('bert-base-cased')
-        self.dropout = nn.Dropout(dropout)
+#        self.dropout = nn.Dropout(dropout)
         self.linear = nn.Linear(768, 2)
         self.relu = nn.ReLU()
 
     def forward(self, input_id, mask):
 
         _, pooled_output = self.bert(input_ids= input_id, attention_mask=mask,return_dict=False)
-        dropout_output = self.dropout(pooled_output)
-        linear_output = self.linear(dropout_output)
+#        dropout_output = self.dropout(pooled_output)
+        linear_output = self.linear(pooled_output)
         final_layer = self.relu(linear_output)
 
         return final_layer
@@ -134,20 +134,20 @@ def predict(model, text):
     dg = pd.DataFrame(data=text, columns=['text'])
     dg = dg.reset_index(drop=True)
     dg['text'] = dg['text'].fillna(value='').astype(str)
-    dg['relevance'] = -1
+    dg['relevance'] = dg.index
     use_cuda = torch.cuda.is_available()
     device = torch.device("cuda" if use_cuda else "cpu")
     
-    Z = torch.utils.data.DataLoader(Dataset(dg))
-    n=0
-    for X, y in Z:
-        mask = X['attention_mask'].to(device)
-        input_id = X['input_ids'].squeeze(1).to(device)
-        output = model(input_id, mask)
-        relevance = float(output.argmax(dim=1))
-        dg.loc[n, 'relevance'] = relevance
-        n=n+1
-    
+    Z = torch.utils.data.DataLoader(Dataset(dg), batch_size=1, shuffle=False)
+    with torch.no_grad():
+        for X, n in Z:
+            mask = X['attention_mask'].to(device)
+            input_id = X['input_ids'].squeeze(1).to(device)
+            output = model(input_id, mask)
+            relevance = float(output.argmax(dim=1))
+            dg.loc[n, 'relevance'] = relevance
+
+        
     return dg
 
 
