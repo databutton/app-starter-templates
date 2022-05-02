@@ -1,0 +1,13 @@
+{
+  "extends": ["config:base"],
+  "timezone": "Europe/Oslo",
+  "automerge": true,
+  "automergeType": "branch",
+  "packageRules": [
+    {
+      "packagePatterns": ["*"],
+      "excludePackagePatterns": ["databutton2"],
+      "enabled": false
+    }
+  ]
+}
