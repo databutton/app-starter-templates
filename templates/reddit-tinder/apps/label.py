@@ -1,12 +1,11 @@
-import pandas as pd
 from lib.config import DATA_KEY
 import databutton as db
 import streamlit as st
 
 
-@db.streamlit('/label')
+@db.streamlit('/label', cpu='1', memory='2Gi')
 def dash2():
-    df = pd.read_csv(DATA_KEY)
+    df = db.dataframes.get(DATA_KEY)
     random_post = df[df['relevance'] == -1].sample(n=1)
     random_record = random_post.to_records()[0]
     st.title('Rinder')
@@ -15,7 +14,8 @@ def dash2():
 
     def label_data(index, relevance):
         df.loc[index, 'relevance'] = relevance
-        df.to_csv(DATA_KEY, index=0)
+        print('setting relevance on', df.loc[index])
+        db.dataframes.put(df, DATA_KEY)
 
     st.button('Bad', on_click=label_data, args=(random_post.index, 0))
     st.button('Good', on_click=label_data, args=(random_post.index, 1))
@@ -23,6 +23,6 @@ def dash2():
 
 @db.streamlit('/see-labels')
 def see_labels():
-    df = pd.read_csv(DATA_KEY)
+    df = db.dataframes.get(DATA_KEY)
     labeled = df[df['relevance'] != -1]
     st.dataframe(labeled)
