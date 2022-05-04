@@ -3,6 +3,9 @@
   "timezone": "Europe/Oslo",
   "automerge": true,
   "automergeType": "branch",
+  "major": {
+    "automerge": false
+  },
   "packageRules": [
     {
       "packagePatterns": ["*"],
