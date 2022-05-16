@@ -19,7 +19,7 @@ cffi==1.15.0
 charset-normalizer==2.0.12
 click==7.1.2
 colorama==0.4.4
-databutton2==0.6.8
+databutton2==0.6.17
 debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
