@@ -1,5 +1,5 @@
 .DS_Store
-data/generated
 
 __pycache__
 databutton.json
+.ipynb_checkpoints
