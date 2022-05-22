@@ -1,4 +1,4 @@
-databutton2==0.6.26
+databutton2==0.6.27
 streamlit
 plotly
 pandas
