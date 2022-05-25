@@ -17,7 +17,7 @@ def compute():
     st.title("Compute")
 
 
-@db.repeat(seconds=10 * 60)
+@db.repeat_every(seconds=10 * 60)
 def repeating_job():
     # Check for new data
     # Do some work on that data
