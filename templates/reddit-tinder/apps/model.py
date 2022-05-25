@@ -10,7 +10,7 @@ from lib.rmodel import Dataset, BertClassifier, train, predict, evaluate
 from lib.slack import post_message_to_slack
 
 
-@db.streamlit('/app/pipeline')
+@db.streamlit('/app/pipeline', name="Pipeline test")
 def reddit_pipeline():
     st.title('Ridder Pipeline Test')
 
@@ -37,7 +37,7 @@ def reddit_pipeline():
             "hmmm - No interesting Reddit posts it seems? Someone keen on labeling a bit more?")
 
 
-@db.streamlit('/app/train', memory='16Gi', cpu='4')
+@db.streamlit('/app/train', memory='4Gi', cpu='2', name="Retrain model UI")
 def reddit_pipeline():
     st.title('Train new model')
     if st.button('TRAIN NEW MODEL'):

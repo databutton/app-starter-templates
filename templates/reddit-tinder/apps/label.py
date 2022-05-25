@@ -3,7 +3,7 @@ import databutton as db
 import streamlit as st
 
 
-@db.streamlit('/label', cpu='2', memory='4Gi')
+@db.streamlit('/label', cpu='2', memory='4Gi', name='Labeling tool')
 def dash2():
     df = db.dataframes.get(DATA_KEY)
     random_post = df[df['relevance'] == -1].sample(n=1)
@@ -20,7 +20,7 @@ def dash2():
     st.button('Good', on_click=label_data, args=(random_post.index, 1))
 
 
-@db.streamlit('/see-labels')
+@db.streamlit('/see-labels', name='See labels')
 def see_labels():
     df = db.dataframes.get(DATA_KEY)
     labeled = df[df['relevance'] != -1]
