@@ -12,7 +12,8 @@ def tutorial():
     st.title("Tutorial")
 
 
-@db.streamlit(route="/compute", name="Compute intensive app", cpu=8, memory="16Gi")
+# This can be expensive to deploy
+@db.streamlit(route="/compute", name="Compute intensive app", cpu="2", memory="4096Mi")
 def compute():
     st.title("Compute")
 
