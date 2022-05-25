@@ -3,17 +3,8 @@ import pandas as pd
 import plotly.express as px
 import databutton as db
 
-@db.dataframe('/data/raw-churn.csv')
-def raw_data():
-    return pd.read_csv('./data/raw/churn.csv')
 
-
-@db.dataframe('/data/predicted-churn.csv')
-def predicted_data():
-    return pd.read_csv('./data/predicted/Profit-estimated.csv')
-
-
-@db.streamlit('/apps/sales-forecasting')
+@db.streamlit('/apps/sales-forecasting', name='Sales forecasting')
 def app():
     stats = ['Quantity', 'Sales', 'Profit', 'Discount']
     views = ['Category', 'City', 'Product']
