@@ -9,7 +9,7 @@
   "packageRules": [
     {
       "packagePatterns": ["*"],
-      "excludePackagePatterns": ["databutton2"],
+      "excludePackagePatterns": ["databutton"],
       "enabled": false
     }
   ]
