@@ -8,15 +8,15 @@ This project was created with `databutton create`.
 Starts the development server.
 Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload when you make changes.
 
 ### `databutton deploy`
 Deploy your project on databutton.com.
 Note that in order to deploy you need a user and a project in Databutton.
 
 ### `databutton build`
-Builds and bundles the project, will generate all necessary files for production.
+Builds and bundles the project, will generate all necessary files for production.\
+This is automatically done when running `databutton deploy`, so it should only be necessary if you're deploying to your own infrastructure.
 
 ## Learn more
 
