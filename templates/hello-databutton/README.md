@@ -20,4 +20,4 @@ Builds and bundles the project, will generate all necessary files for production
 
 ## Learn more
 
-You can learn more in the (Databutton documentation)[https://docs.databutton.com]
+You can learn more in the [Databutton documentation](https://docs.databutton.com)
